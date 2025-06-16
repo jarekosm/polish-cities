@@ -1,0 +1,1903 @@
+{
+"county": [
+	{
+		"code" : "02-01",
+		"name" : "bolesławiecki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-02",
+		"name" : "dzierżoniowski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-03",
+		"name" : "głogowski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-04",
+		"name" : "górowski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-05",
+		"name" : "jaworski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-06",
+		"name" : "karkonoski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-07",
+		"name" : "kamiennogórski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-08",
+		"name" : "kłodzki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-09",
+		"name" : "legnicki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-10",
+		"name" : "lubański",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-11",
+		"name" : "lubiński",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-12",
+		"name" : "lwówecki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-13",
+		"name" : "milicki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-14",
+		"name" : "oleśnicki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-15",
+		"name" : "oławski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-16",
+		"name" : "polkowicki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-17",
+		"name" : "strzeliński",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-18",
+		"name" : "średzki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-19",
+		"name" : "świdnicki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-20",
+		"name" : "trzebnicki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-21",
+		"name" : "wałbrzyski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-22",
+		"name" : "wołowski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-23",
+		"name" : "wrocławski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-24",
+		"name" : "ząbkowicki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-25",
+		"name" : "zgorzelecki",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-26",
+		"name" : "złotoryjski",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-61",
+		"name" : "Jelenia Góra",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-62",
+		"name" : "Legnica",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-64",
+		"name" : "Wrocław",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "02-65",
+		"name" : "Wałbrzych",
+		"voivodeship_code" : "02"
+	},
+	{
+		"code" : "04-01",
+		"name" : "aleksandrowski",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-02",
+		"name" : "brodnicki",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-03",
+		"name" : "bydgoski",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-04",
+		"name" : "chełmiński",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-05",
+		"name" : "golubsko-dobrzyński",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-06",
+		"name" : "grudziądzki",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-07",
+		"name" : "inowrocławski",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-08",
+		"name" : "lipnowski",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-09",
+		"name" : "mogileński",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-10",
+		"name" : "nakielski",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-11",
+		"name" : "radziejowski",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-12",
+		"name" : "rypiński",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-13",
+		"name" : "sępoleński",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-14",
+		"name" : "świecki",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-15",
+		"name" : "toruński",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-16",
+		"name" : "tucholski",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-17",
+		"name" : "wąbrzeski",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-18",
+		"name" : "włocławski",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-19",
+		"name" : "żniński",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-61",
+		"name" : "Bydgoszcz",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-62",
+		"name" : "Grudziądz",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-63",
+		"name" : "Toruń",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "04-64",
+		"name" : "Włocławek",
+		"voivodeship_code" : "04"
+	},
+	{
+		"code" : "06-01",
+		"name" : "bialski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-02",
+		"name" : "biłgorajski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-03",
+		"name" : "chełmski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-04",
+		"name" : "hrubieszowski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-05",
+		"name" : "janowski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-06",
+		"name" : "krasnostawski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-07",
+		"name" : "kraśnicki",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-08",
+		"name" : "lubartowski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-09",
+		"name" : "lubelski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-10",
+		"name" : "łęczyński",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-11",
+		"name" : "łukowski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-12",
+		"name" : "opolski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-13",
+		"name" : "parczewski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-14",
+		"name" : "puławski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-15",
+		"name" : "radzyński",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-16",
+		"name" : "rycki",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-17",
+		"name" : "świdnicki",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-18",
+		"name" : "tomaszowski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-19",
+		"name" : "włodawski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-20",
+		"name" : "zamojski",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-61",
+		"name" : "Biała Podlaska",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-62",
+		"name" : "Chełm",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-63",
+		"name" : "Lublin",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "06-64",
+		"name" : "Zamość",
+		"voivodeship_code" : "06"
+	},
+	{
+		"code" : "08-01",
+		"name" : "gorzowski",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-02",
+		"name" : "krośnieński",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-03",
+		"name" : "międzyrzecki",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-04",
+		"name" : "nowosolski",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-05",
+		"name" : "słubicki",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-06",
+		"name" : "strzelecko-drezdenecki",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-07",
+		"name" : "sulęciński",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-08",
+		"name" : "świebodziński",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-09",
+		"name" : "zielonogórski",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-10",
+		"name" : "żagański",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-11",
+		"name" : "żarski",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-12",
+		"name" : "wschowski",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-61",
+		"name" : "Gorzów Wielkopolski",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "08-62",
+		"name" : "Zielona Góra",
+		"voivodeship_code" : "08"
+	},
+	{
+		"code" : "10-01",
+		"name" : "bełchatowski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-02",
+		"name" : "kutnowski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-03",
+		"name" : "łaski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-04",
+		"name" : "łęczycki",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-05",
+		"name" : "łowicki",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-06",
+		"name" : "łódzki wschodni",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-07",
+		"name" : "opoczyński",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-08",
+		"name" : "pabianicki",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-09",
+		"name" : "pajęczański",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-10",
+		"name" : "piotrkowski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-11",
+		"name" : "poddębicki",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-12",
+		"name" : "radomszczański",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-13",
+		"name" : "rawski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-14",
+		"name" : "sieradzki",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-15",
+		"name" : "skierniewicki",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-16",
+		"name" : "tomaszowski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-17",
+		"name" : "wieluński",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-18",
+		"name" : "wieruszowski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-19",
+		"name" : "zduńskowolski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-20",
+		"name" : "zgierski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-21",
+		"name" : "brzeziński",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-61",
+		"name" : "Łódź",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-62",
+		"name" : "Piotrków Trybunalski",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "10-63",
+		"name" : "Skierniewice",
+		"voivodeship_code" : "10"
+	},
+	{
+		"code" : "12-01",
+		"name" : "bocheński",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-02",
+		"name" : "brzeski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-03",
+		"name" : "chrzanowski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-04",
+		"name" : "dąbrowski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-05",
+		"name" : "gorlicki",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-06",
+		"name" : "krakowski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-07",
+		"name" : "limanowski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-08",
+		"name" : "miechowski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-09",
+		"name" : "myślenicki",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-10",
+		"name" : "nowosądecki",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-11",
+		"name" : "nowotarski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-12",
+		"name" : "olkuski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-13",
+		"name" : "oświęcimski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-14",
+		"name" : "proszowicki",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-15",
+		"name" : "suski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-16",
+		"name" : "tarnowski",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-17",
+		"name" : "tatrzański",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-18",
+		"name" : "wadowicki",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-19",
+		"name" : "wielicki",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-61",
+		"name" : "Kraków",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-62",
+		"name" : "Nowy Sącz",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "12-63",
+		"name" : "Tarnów",
+		"voivodeship_code" : "12"
+	},
+	{
+		"code" : "14-01",
+		"name" : "białobrzeski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-02",
+		"name" : "ciechanowski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-03",
+		"name" : "garwoliński",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-04",
+		"name" : "gostyniński",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-05",
+		"name" : "grodziski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-06",
+		"name" : "grójecki",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-07",
+		"name" : "kozienicki",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-08",
+		"name" : "legionowski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-09",
+		"name" : "lipski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-10",
+		"name" : "łosicki",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-11",
+		"name" : "makowski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-12",
+		"name" : "miński",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-13",
+		"name" : "mławski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-14",
+		"name" : "nowodworski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-15",
+		"name" : "ostrołęcki",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-16",
+		"name" : "ostrowski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-17",
+		"name" : "otwocki",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-18",
+		"name" : "piaseczyński",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-19",
+		"name" : "płocki",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-20",
+		"name" : "płoński",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-21",
+		"name" : "pruszkowski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-22",
+		"name" : "przasnyski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-23",
+		"name" : "przysuski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-24",
+		"name" : "pułtuski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-25",
+		"name" : "radomski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-26",
+		"name" : "siedlecki",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-27",
+		"name" : "sierpecki",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-28",
+		"name" : "sochaczewski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-29",
+		"name" : "sokołowski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-30",
+		"name" : "szydłowiecki",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-32",
+		"name" : "warszawski zachodni",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-33",
+		"name" : "węgrowski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-34",
+		"name" : "wołomiński",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-35",
+		"name" : "wyszkowski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-36",
+		"name" : "zwoleński",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-37",
+		"name" : "żuromiński",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-38",
+		"name" : "żyrardowski",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-61",
+		"name" : "Ostrołęka",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-62",
+		"name" : "Płock",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-63",
+		"name" : "Radom",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-64",
+		"name" : "Siedlce",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "14-65",
+		"name" : "Warszawa",
+		"voivodeship_code" : "14"
+	},
+	{
+		"code" : "16-01",
+		"name" : "brzeski",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-02",
+		"name" : "głubczycki",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-03",
+		"name" : "kędzierzyńsko-kozielski",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-04",
+		"name" : "kluczborski",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-05",
+		"name" : "krapkowicki",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-06",
+		"name" : "namysłowski",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-07",
+		"name" : "nyski",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-08",
+		"name" : "oleski",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-09",
+		"name" : "opolski",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-10",
+		"name" : "prudnicki",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-11",
+		"name" : "strzelecki",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "16-61",
+		"name" : "Opole",
+		"voivodeship_code" : "16"
+	},
+	{
+		"code" : "18-01",
+		"name" : "bieszczadzki",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-02",
+		"name" : "brzozowski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-03",
+		"name" : "dębicki",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-04",
+		"name" : "jarosławski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-05",
+		"name" : "jasielski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-06",
+		"name" : "kolbuszowski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-07",
+		"name" : "krośnieński",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-08",
+		"name" : "leżajski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-09",
+		"name" : "lubaczowski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-10",
+		"name" : "łańcucki",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-11",
+		"name" : "mielecki",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-12",
+		"name" : "niżański",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-13",
+		"name" : "przemyski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-14",
+		"name" : "przeworski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-15",
+		"name" : "ropczycko-sędziszowski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-16",
+		"name" : "rzeszowski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-17",
+		"name" : "sanocki",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-18",
+		"name" : "stalowowolski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-19",
+		"name" : "strzyżowski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-20",
+		"name" : "tarnobrzeski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-21",
+		"name" : "leski",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-61",
+		"name" : "Krosno",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-62",
+		"name" : "Przemyśl",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-63",
+		"name" : "Rzeszów",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "18-64",
+		"name" : "Tarnobrzeg",
+		"voivodeship_code" : "18"
+	},
+	{
+		"code" : "20-01",
+		"name" : "augustowski",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-02",
+		"name" : "białostocki",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-03",
+		"name" : "bielski",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-04",
+		"name" : "grajewski",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-05",
+		"name" : "hajnowski",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-06",
+		"name" : "kolneński",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-07",
+		"name" : "łomżyński",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-08",
+		"name" : "moniecki",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-09",
+		"name" : "sejneński",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-10",
+		"name" : "siemiatycki",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-11",
+		"name" : "sokólski",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-12",
+		"name" : "suwalski",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-13",
+		"name" : "wysokomazowiecki",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-14",
+		"name" : "zambrowski",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-61",
+		"name" : "Białystok",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-62",
+		"name" : "Łomża",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "20-63",
+		"name" : "Suwałki",
+		"voivodeship_code" : "20"
+	},
+	{
+		"code" : "22-01",
+		"name" : "bytowski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-02",
+		"name" : "chojnicki",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-03",
+		"name" : "człuchowski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-04",
+		"name" : "gdański",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-05",
+		"name" : "kartuski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-06",
+		"name" : "kościerski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-07",
+		"name" : "kwidzyński",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-08",
+		"name" : "lęborski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-09",
+		"name" : "malborski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-10",
+		"name" : "nowodworski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-11",
+		"name" : "pucki",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-12",
+		"name" : "słupski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-13",
+		"name" : "starogardzki",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-14",
+		"name" : "tczewski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-15",
+		"name" : "wejherowski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-16",
+		"name" : "sztumski",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-61",
+		"name" : "Gdańsk",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-62",
+		"name" : "Gdynia",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-63",
+		"name" : "Słupsk",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "22-64",
+		"name" : "Sopot",
+		"voivodeship_code" : "22"
+	},
+	{
+		"code" : "24-01",
+		"name" : "będziński",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-02",
+		"name" : "bielski",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-03",
+		"name" : "cieszyński",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-04",
+		"name" : "częstochowski",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-05",
+		"name" : "gliwicki",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-06",
+		"name" : "kłobucki",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-07",
+		"name" : "lubliniecki",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-08",
+		"name" : "mikołowski",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-09",
+		"name" : "myszkowski",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-10",
+		"name" : "pszczyński",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-11",
+		"name" : "raciborski",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-12",
+		"name" : "rybnicki",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-13",
+		"name" : "tarnogórski",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-14",
+		"name" : "bieruńsko-lędziński",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-15",
+		"name" : "wodzisławski",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-16",
+		"name" : "zawierciański",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-17",
+		"name" : "żywiecki",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-61",
+		"name" : "Bielsko-Biała",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-62",
+		"name" : "Bytom",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-63",
+		"name" : "Chorzów",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-64",
+		"name" : "Częstochowa",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-65",
+		"name" : "Dąbrowa Górnicza",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-66",
+		"name" : "Gliwice",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-67",
+		"name" : "Jastrzębie-Zdrój",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-68",
+		"name" : "Jaworzno",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-69",
+		"name" : "Katowice",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-70",
+		"name" : "Mysłowice",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-71",
+		"name" : "Piekary Śląskie",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-72",
+		"name" : "Ruda Śląska",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-73",
+		"name" : "Rybnik",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-74",
+		"name" : "Siemianowice Śląskie",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-75",
+		"name" : "Sosnowiec",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-76",
+		"name" : "Świętochłowice",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-77",
+		"name" : "Tychy",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-78",
+		"name" : "Zabrze",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "24-79",
+		"name" : "Żory",
+		"voivodeship_code" : "24"
+	},
+	{
+		"code" : "26-01",
+		"name" : "buski",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-02",
+		"name" : "jędrzejowski",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-03",
+		"name" : "kazimierski",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-04",
+		"name" : "kielecki",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-05",
+		"name" : "konecki",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-06",
+		"name" : "opatowski",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-07",
+		"name" : "ostrowiecki",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-08",
+		"name" : "pińczowski",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-09",
+		"name" : "sandomierski",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-10",
+		"name" : "skarżyski",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-11",
+		"name" : "starachowicki",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-12",
+		"name" : "staszowski",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-13",
+		"name" : "włoszczowski",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "26-61",
+		"name" : "Kielce",
+		"voivodeship_code" : "26"
+	},
+	{
+		"code" : "28-01",
+		"name" : "bartoszycki",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-02",
+		"name" : "braniewski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-03",
+		"name" : "działdowski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-04",
+		"name" : "elbląski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-05",
+		"name" : "ełcki",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-06",
+		"name" : "giżycki",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-07",
+		"name" : "iławski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-08",
+		"name" : "kętrzyński",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-09",
+		"name" : "lidzbarski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-10",
+		"name" : "mrągowski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-11",
+		"name" : "nidzicki",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-12",
+		"name" : "nowomiejski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-13",
+		"name" : "olecki",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-14",
+		"name" : "olsztyński",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-15",
+		"name" : "ostródzki",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-16",
+		"name" : "piski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-17",
+		"name" : "szczycieński",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-18",
+		"name" : "gołdapski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-19",
+		"name" : "węgorzewski",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-61",
+		"name" : "Elbląg",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "28-62",
+		"name" : "Olsztyn",
+		"voivodeship_code" : "28"
+	},
+	{
+		"code" : "30-01",
+		"name" : "chodzieski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-02",
+		"name" : "czarnkowsko-trzcianecki",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-03",
+		"name" : "gnieźnieński",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-04",
+		"name" : "gostyński",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-05",
+		"name" : "grodziski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-06",
+		"name" : "jarociński",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-07",
+		"name" : "kaliski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-08",
+		"name" : "kępiński",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-09",
+		"name" : "kolski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-10",
+		"name" : "koniński",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-11",
+		"name" : "kościański",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-12",
+		"name" : "krotoszyński",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-13",
+		"name" : "leszczyński",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-14",
+		"name" : "międzychodzki",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-15",
+		"name" : "nowotomyski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-16",
+		"name" : "obornicki",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-17",
+		"name" : "ostrowski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-18",
+		"name" : "ostrzeszowski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-19",
+		"name" : "pilski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-20",
+		"name" : "pleszewski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-21",
+		"name" : "poznański",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-22",
+		"name" : "rawicki",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-23",
+		"name" : "słupecki",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-24",
+		"name" : "szamotulski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-25",
+		"name" : "średzki",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-26",
+		"name" : "śremski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-27",
+		"name" : "turecki",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-28",
+		"name" : "wągrowiecki",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-29",
+		"name" : "wolsztyński",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-30",
+		"name" : "wrzesiński",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-31",
+		"name" : "złotowski",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-61",
+		"name" : "Kalisz",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-62",
+		"name" : "Konin",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-63",
+		"name" : "Leszno",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "30-64",
+		"name" : "Poznań",
+		"voivodeship_code" : "30"
+	},
+	{
+		"code" : "32-01",
+		"name" : "białogardzki",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-02",
+		"name" : "choszczeński",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-03",
+		"name" : "drawski",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-04",
+		"name" : "goleniowski",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-05",
+		"name" : "gryficki",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-06",
+		"name" : "gryfiński",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-07",
+		"name" : "kamieński",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-08",
+		"name" : "kołobrzeski",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-09",
+		"name" : "koszaliński",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-10",
+		"name" : "myśliborski",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-11",
+		"name" : "policki",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-12",
+		"name" : "pyrzycki",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-13",
+		"name" : "sławieński",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-14",
+		"name" : "stargardzki",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-15",
+		"name" : "szczecinecki",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-16",
+		"name" : "świdwiński",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-17",
+		"name" : "wałecki",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-18",
+		"name" : "łobeski",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-61",
+		"name" : "Koszalin",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-62",
+		"name" : "Szczecin",
+		"voivodeship_code" : "32"
+	},
+	{
+		"code" : "32-63",
+		"name" : "Świnoujście",
+		"voivodeship_code" : "32"
+	}
+]}

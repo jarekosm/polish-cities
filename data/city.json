@@ -1,0 +1,6123 @@
+{
+"city": [
+	{
+		"name" : "Węgliniec",
+		"location" : "POINT (51.283744 15.225858)",
+		"radius" : 2.72,
+		"county_code" : "02-25"
+	},
+	{
+		"name" : "Stronie Śląskie",
+		"location" : "POINT (50.297045 16.878989)",
+		"radius" : 2.02,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Ząbkowice Śląskie",
+		"location" : "POINT (50.587351 16.822879)",
+		"radius" : 3.43,
+		"county_code" : "02-24"
+	},
+	{
+		"name" : "Złoty Stok",
+		"location" : "POINT (50.434391 16.871868)",
+		"radius" : 3.52,
+		"county_code" : "02-24"
+	},
+	{
+		"name" : "Bogatynia",
+		"location" : "POINT (50.922347 14.938376)",
+		"radius" : 7.41,
+		"county_code" : "02-25"
+	},
+	{
+		"name" : "Radków",
+		"location" : "POINT (50.501579 16.390303)",
+		"radius" : 4.01,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Kamienna Góra",
+		"location" : "POINT (50.784689 16.033688)",
+		"radius" : 4.31,
+		"county_code" : "02-07"
+	},
+	{
+		"name" : "Pieńsk",
+		"location" : "POINT (51.250515 15.056191)",
+		"radius" : 3.26,
+		"county_code" : "02-25"
+	},
+	{
+		"name" : "Bielawa",
+		"location" : "POINT (50.675471 16.602826)",
+		"radius" : 6.37,
+		"county_code" : "02-02"
+	},
+	{
+		"name" : "Głuszyca",
+		"location" : "POINT (50.688635 16.389186)",
+		"radius" : 3.77,
+		"county_code" : "02-21"
+	},
+	{
+		"name" : "Wąsosz",
+		"location" : "POINT (51.561193 16.693182)",
+		"radius" : 2.02,
+		"county_code" : "02-04"
+	},
+	{
+		"name" : "Duszniki-Zdrój",
+		"location" : "POINT (50.370361 16.381847)",
+		"radius" : 6.09,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Kłodzko",
+		"location" : "POINT (50.433746 16.649035)",
+		"radius" : 4.84,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Lubomierz",
+		"location" : "POINT (51.004584 15.511061)",
+		"radius" : 2.78,
+		"county_code" : "02-12"
+	},
+	{
+		"name" : "Złotoryja",
+		"location" : "POINT (51.122384 15.918558)",
+		"radius" : 3.12,
+		"county_code" : "02-26"
+	},
+	{
+		"name" : "Wiązów",
+		"location" : "POINT (50.81975 17.199399)",
+		"radius" : 2.90,
+		"county_code" : "02-17"
+	},
+	{
+		"name" : "Lubawka",
+		"location" : "POINT (50.698597 16.006421)",
+		"radius" : 4.67,
+		"county_code" : "02-07"
+	},
+	{
+		"name" : "Głogów",
+		"location" : "POINT (51.670185 16.043507)",
+		"radius" : 8.61,
+		"county_code" : "02-03"
+	},
+	{
+		"name" : "Syców",
+		"location" : "POINT (51.303249 17.729459)",
+		"radius" : 3.47,
+		"county_code" : "02-14"
+	},
+	{
+		"name" : "Oborniki Śląskie",
+		"location" : "POINT (51.296141 16.909343)",
+		"radius" : 3.46,
+		"county_code" : "02-20"
+	},
+	{
+		"name" : "Kąty Wrocławskie",
+		"location" : "POINT (51.028353 16.759278)",
+		"radius" : 2.59,
+		"county_code" : "02-23"
+	},
+	{
+		"name" : "Boguszów-Gorce",
+		"location" : "POINT (50.7551 16.205505)",
+		"radius" : 5.28,
+		"county_code" : "02-21"
+	},
+	{
+		"name" : "Wleń",
+		"location" : "POINT (51.018124 15.672232)",
+		"radius" : 2.68,
+		"county_code" : "02-12"
+	},
+	{
+		"name" : "Polkowice",
+		"location" : "POINT (51.50133 16.068245)",
+		"radius" : 4.66,
+		"county_code" : "02-16"
+	},
+	{
+		"name" : "Szczawno-Zdrój",
+		"location" : "POINT (50.795181 16.235313)",
+		"radius" : 4.48,
+		"county_code" : "02-21"
+	},
+	{
+		"name" : "Trzebnica",
+		"location" : "POINT (51.311557 17.059168)",
+		"radius" : 3.25,
+		"county_code" : "02-20"
+	},
+	{
+		"name" : "Jedlina-Zdrój",
+		"location" : "POINT (50.724186 16.339558)",
+		"radius" : 4.13,
+		"county_code" : "02-21"
+	},
+	{
+		"name" : "Środa Śląska",
+		"location" : "POINT (51.170304 16.597117)",
+		"radius" : 3.34,
+		"county_code" : "02-18"
+	},
+	{
+		"name" : "Żarów",
+		"location" : "POINT (50.944474 16.49921)",
+		"radius" : 3.10,
+		"county_code" : "02-19"
+	},
+	{
+		"name" : "Zawidów",
+		"location" : "POINT (51.024505 15.045271)",
+		"radius" : 2.28,
+		"county_code" : "02-25"
+	},
+	{
+		"name" : "Jelcz-Laskowice",
+		"location" : "POINT (51.032777 17.330008)",
+		"radius" : 4.01,
+		"county_code" : "02-15"
+	},
+	{
+		"name" : "Gryfów Śląski",
+		"location" : "POINT (51.026287 15.419522)",
+		"radius" : 2.59,
+		"county_code" : "02-12"
+	},
+	{
+		"name" : "Legnica",
+		"location" : "POINT (51.204688 16.158232)",
+		"radius" : 7.17,
+		"county_code" : "02-62"
+	},
+	{
+		"name" : "Bolków",
+		"location" : "POINT (50.920607 16.100639)",
+		"radius" : 3.18,
+		"county_code" : "02-05"
+	},
+	{
+		"name" : "Świeradów-Zdrój",
+		"location" : "POINT (50.916952 15.323227)",
+		"radius" : 4.92,
+		"county_code" : "02-10"
+	},
+	{
+		"name" : "Leśna",
+		"location" : "POINT (51.027503 15.277193)",
+		"radius" : 2.78,
+		"county_code" : "02-10"
+	},
+	{
+		"name" : "Piława Górna",
+		"location" : "POINT (50.682876 16.755003)",
+		"radius" : 3.91,
+		"county_code" : "02-02"
+	},
+	{
+		"name" : "Świdnica",
+		"location" : "POINT (50.840617 16.492523)",
+		"radius" : 4.47,
+		"county_code" : "02-19"
+	},
+	{
+		"name" : "Jelenia Góra",
+		"location" : "POINT (50.850165 15.727517)",
+		"radius" : 13.93,
+		"county_code" : "02-61"
+	},
+	{
+		"name" : "Ścinawa",
+		"location" : "POINT (51.410124 16.425165)",
+		"radius" : 3.54,
+		"county_code" : "02-11"
+	},
+	{
+		"name" : "Bardo",
+		"location" : "POINT (50.500703 16.747516)",
+		"radius" : 2.36,
+		"county_code" : "02-24"
+	},
+	{
+		"name" : "Chocianów",
+		"location" : "POINT (51.418318 15.906169)",
+		"radius" : 3.06,
+		"county_code" : "02-16"
+	},
+	{
+		"name" : "Prochowice",
+		"location" : "POINT (51.267662 16.365813)",
+		"radius" : 2.99,
+		"county_code" : "02-09"
+	},
+	{
+		"name" : "Świerzawa",
+		"location" : "POINT (51.017275 15.899086)",
+		"radius" : 1.46,
+		"county_code" : "02-26"
+	},
+	{
+		"name" : "Nowa Ruda",
+		"location" : "POINT (50.5735 16.51985)",
+		"radius" : 6.95,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Przemków",
+		"location" : "POINT (51.531098 15.780624)",
+		"radius" : 2.84,
+		"county_code" : "02-16"
+	},
+	{
+		"name" : "Strzelin",
+		"location" : "POINT (50.777772 17.076798)",
+		"radius" : 3.12,
+		"county_code" : "02-17"
+	},
+	{
+		"name" : "Piechowice",
+		"location" : "POINT (50.827738 15.587755)",
+		"radius" : 6.84,
+		"county_code" : "02-06"
+	},
+	{
+		"name" : "Mirsk",
+		"location" : "POINT (50.96646 15.38372)",
+		"radius" : 4.01,
+		"county_code" : "02-12"
+	},
+	{
+		"name" : "Wrocław",
+		"location" : "POINT (51.126365 16.991779)",
+		"radius" : 15.87,
+		"county_code" : "02-64"
+	},
+	{
+		"name" : "Strzegom",
+		"location" : "POINT (50.95995 16.344252)",
+		"radius" : 4.85,
+		"county_code" : "02-19"
+	},
+	{
+		"name" : "Szczytna",
+		"location" : "POINT (50.399237 16.437415)",
+		"radius" : 9.95,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Karpacz",
+		"location" : "POINT (50.763867 15.74444)",
+		"radius" : 5.46,
+		"county_code" : "02-06"
+	},
+	{
+		"name" : "Kudowa-Zdrój",
+		"location" : "POINT (50.445798 16.268897)",
+		"radius" : 6.75,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Bystrzyca Kłodzka",
+		"location" : "POINT (50.295351 16.649944)",
+		"radius" : 3.13,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Lubin",
+		"location" : "POINT (51.399417 16.193942)",
+		"radius" : 6.33,
+		"county_code" : "02-11"
+	},
+	{
+		"name" : "Niemcza",
+		"location" : "POINT (50.71767 16.839576)",
+		"radius" : 4.61,
+		"county_code" : "02-02"
+	},
+	{
+		"name" : "Lądek-Zdrój",
+		"location" : "POINT (50.348213 16.88332)",
+		"radius" : 4.17,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Lubań",
+		"location" : "POINT (51.114691 15.280862)",
+		"radius" : 3.55,
+		"county_code" : "02-10"
+	},
+	{
+		"name" : "Siechnice",
+		"location" : "POINT (51.032592 17.15711)",
+		"radius" : 3.52,
+		"county_code" : "02-23"
+	},
+	{
+		"name" : "Milicz",
+		"location" : "POINT (51.521576 17.269943)",
+		"radius" : 3.72,
+		"county_code" : "02-13"
+	},
+	{
+		"name" : "Oława",
+		"location" : "POINT (50.957452 17.294202)",
+		"radius" : 5.44,
+		"county_code" : "02-15"
+	},
+	{
+		"name" : "Szklarska Poręba",
+		"location" : "POINT (50.814304 15.466421)",
+		"radius" : 8.26,
+		"county_code" : "02-06"
+	},
+	{
+		"name" : "Prusice",
+		"location" : "POINT (51.380562 16.97238)",
+		"radius" : 3.82,
+		"county_code" : "02-20"
+	},
+	{
+		"name" : "Olszyna",
+		"location" : "POINT (51.075697 15.371389)",
+		"radius" : 4.29,
+		"county_code" : "02-10"
+	},
+	{
+		"name" : "Brzeg Dolny",
+		"location" : "POINT (51.268419 16.719603)",
+		"radius" : 3.94,
+		"county_code" : "02-22"
+	},
+	{
+		"name" : "Wołów",
+		"location" : "POINT (51.338568 16.63505)",
+		"radius" : 4.33,
+		"county_code" : "02-22"
+	},
+	{
+		"name" : "Polanica-Zdrój",
+		"location" : "POINT (50.398894 16.499473)",
+		"radius" : 3.76,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Świebodzice",
+		"location" : "POINT (50.872491 16.338542)",
+		"radius" : 5.95,
+		"county_code" : "02-19"
+	},
+	{
+		"name" : "Jawor",
+		"location" : "POINT (51.067685 16.185091)",
+		"radius" : 4.68,
+		"county_code" : "02-05"
+	},
+	{
+		"name" : "Chojnów",
+		"location" : "POINT (51.272214 15.935727)",
+		"radius" : 2.16,
+		"county_code" : "02-09"
+	},
+	{
+		"name" : "Wojcieszów",
+		"location" : "POINT (50.955933 15.928362)",
+		"radius" : 5.45,
+		"county_code" : "02-26"
+	},
+	{
+		"name" : "Dzierżoniów",
+		"location" : "POINT (50.729179 16.64731)",
+		"radius" : 4.41,
+		"county_code" : "02-02"
+	},
+	{
+		"name" : "Międzylesie",
+		"location" : "POINT (50.144306 16.646721)",
+		"radius" : 3.85,
+		"county_code" : "02-08"
+	},
+	{
+		"name" : "Bolesławiec",
+		"location" : "POINT (51.262169 15.55163)",
+		"radius" : 5.31,
+		"county_code" : "02-01"
+	},
+	{
+		"name" : "Bierutów",
+		"location" : "POINT (51.129187 17.545863)",
+		"radius" : 2.66,
+		"county_code" : "02-14"
+	},
+	{
+		"name" : "Ziębice",
+		"location" : "POINT (50.592462 17.035141)",
+		"radius" : 3.92,
+		"county_code" : "02-24"
+	},
+	{
+		"name" : "Międzybórz",
+		"location" : "POINT (51.401721 17.672417)",
+		"radius" : 2.66,
+		"county_code" : "02-14"
+	},
+	{
+		"name" : "Kowary",
+		"location" : "POINT (50.778723 15.842766)",
+		"radius" : 5.38,
+		"county_code" : "02-06"
+	},
+	{
+		"name" : "Sobótka",
+		"location" : "POINT (50.876389 16.724725)",
+		"radius" : 5.48,
+		"county_code" : "02-23"
+	},
+	{
+		"name" : "Jaworzyna Śląska",
+		"location" : "POINT (50.912212 16.435841)",
+		"radius" : 2.14,
+		"county_code" : "02-19"
+	},
+	{
+		"name" : "Góra",
+		"location" : "POINT (51.670225 16.550623)",
+		"radius" : 3.71,
+		"county_code" : "02-04"
+	},
+	{
+		"name" : "Nowogrodziec",
+		"location" : "POINT (51.199231 15.393906)",
+		"radius" : 4.22,
+		"county_code" : "02-01"
+	},
+	{
+		"name" : "Lwówek Śląski",
+		"location" : "POINT (51.110852 15.605829)",
+		"radius" : 4.15,
+		"county_code" : "02-12"
+	},
+	{
+		"name" : "Żmigród",
+		"location" : "POINT (51.471173 16.907488)",
+		"radius" : 2.79,
+		"county_code" : "02-20"
+	},
+	{
+		"name" : "Mieroszów",
+		"location" : "POINT (50.670183 16.187789)",
+		"radius" : 3.12,
+		"county_code" : "02-21"
+	},
+	{
+		"name" : "Wałbrzych",
+		"location" : "POINT (50.785116 16.291224)",
+		"radius" : 8.90,
+		"county_code" : "02-65"
+	},
+	{
+		"name" : "Pieszyce",
+		"location" : "POINT (50.708232 16.586813)",
+		"radius" : 4.49,
+		"county_code" : "02-02"
+	},
+	{
+		"name" : "Miękinia",
+		"location" : "POINT (51.197453 16.734143)",
+		"radius" : 3.40,
+		"county_code" : "02-18"
+	},
+	{
+		"name" : "Twardogóra",
+		"location" : "POINT (51.366895 17.457675)",
+		"radius" : 2.80,
+		"county_code" : "02-14"
+	},
+	{
+		"name" : "Zgorzelec",
+		"location" : "POINT (51.151795 15.017091)",
+		"radius" : 4.02,
+		"county_code" : "02-25"
+	},
+	{
+		"name" : "Oleśnica",
+		"location" : "POINT (51.210509 17.386044)",
+		"radius" : 5.05,
+		"county_code" : "02-14"
+	},
+	{
+		"name" : "Kamieniec Ząbkowicki",
+		"location" : "POINT (50.522914 16.873614)",
+		"radius" : 5.27,
+		"county_code" : "02-24"
+	},
+	{
+		"name" : "Izbica Kujawska",
+		"location" : "POINT (52.419247 18.760441)",
+		"radius" : 1.47,
+		"county_code" : "04-18"
+	},
+	{
+		"name" : "Nowe",
+		"location" : "POINT (53.648484 18.725281)",
+		"radius" : 1.90,
+		"county_code" : "04-14"
+	},
+	{
+		"name" : "Janowiec Wielkopolski",
+		"location" : "POINT (52.758053 17.488043)",
+		"radius" : 1.68,
+		"county_code" : "04-19"
+	},
+	{
+		"name" : "Kikół",
+		"location" : "POINT (52.911411 19.12171)",
+		"radius" : 1.83,
+		"county_code" : "04-08"
+	},
+	{
+		"name" : "Bobrowniki",
+		"location" : "POINT (52.776295 18.95668)",
+		"radius" : 2.76,
+		"county_code" : "04-08"
+	},
+	{
+		"name" : "Gąsawa",
+		"location" : "POINT (52.761905 17.763665)",
+		"radius" : 2.71,
+		"county_code" : "04-19"
+	},
+	{
+		"name" : "Pruszcz",
+		"location" : "POINT (53.334124 18.20408)",
+		"radius" : 2.54,
+		"county_code" : "04-14"
+	},
+	{
+		"name" : "Górzno",
+		"location" : "POINT (53.196639 19.645653)",
+		"radius" : 1.74,
+		"county_code" : "04-02"
+	},
+	{
+		"name" : "Skępe",
+		"location" : "POINT (52.864887 19.34638)",
+		"radius" : 2.53,
+		"county_code" : "04-08"
+	},
+	{
+		"name" : "Koronowo",
+		"location" : "POINT (53.321996 17.947898)",
+		"radius" : 5.21,
+		"county_code" : "04-03"
+	},
+	{
+		"name" : "Szubin",
+		"location" : "POINT (53.011012 17.746274)",
+		"radius" : 2.88,
+		"county_code" : "04-10"
+	},
+	{
+		"name" : "Inowrocław",
+		"location" : "POINT (52.781666 18.250236)",
+		"radius" : 5.12,
+		"county_code" : "04-07"
+	},
+	{
+		"name" : "Lipno",
+		"location" : "POINT (52.842485 19.175493)",
+		"radius" : 3.39,
+		"county_code" : "04-08"
+	},
+	{
+		"name" : "Kowal",
+		"location" : "POINT (52.532383 19.145075)",
+		"radius" : 2.07,
+		"county_code" : "04-18"
+	},
+	{
+		"name" : "Lubień Kujawski",
+		"location" : "POINT (52.40187 19.167962)",
+		"radius" : 2.30,
+		"county_code" : "04-18"
+	},
+	{
+		"name" : "Mogilno",
+		"location" : "POINT (52.658863 17.954184)",
+		"radius" : 3.20,
+		"county_code" : "04-09"
+	},
+	{
+		"name" : "Chełmża",
+		"location" : "POINT (53.192392 18.608813)",
+		"radius" : 3.20,
+		"county_code" : "04-15"
+	},
+	{
+		"name" : "Lubraniec",
+		"location" : "POINT (52.537931 18.830141)",
+		"radius" : 1.55,
+		"county_code" : "04-18"
+	},
+	{
+		"name" : "Sępólno Krajeńskie",
+		"location" : "POINT (53.452547 17.528625)",
+		"radius" : 2.76,
+		"county_code" : "04-13"
+	},
+	{
+		"name" : "Brześć Kujawski",
+		"location" : "POINT (52.604518 18.900914)",
+		"radius" : 2.96,
+		"county_code" : "04-18"
+	},
+	{
+		"name" : "Piotrków Kujawski",
+		"location" : "POINT (52.545015 18.496857)",
+		"radius" : 2.96,
+		"county_code" : "04-11"
+	},
+	{
+		"name" : "Janikowo",
+		"location" : "POINT (52.756713 18.111593)",
+		"radius" : 2.79,
+		"county_code" : "04-07"
+	},
+	{
+		"name" : "Aleksandrów Kujawski",
+		"location" : "POINT (52.876433 18.700433)",
+		"radius" : 2.85,
+		"county_code" : "04-01"
+	},
+	{
+		"name" : "Chodecz",
+		"location" : "POINT (52.408249 19.028018)",
+		"radius" : 1.50,
+		"county_code" : "04-18"
+	},
+	{
+		"name" : "Bydgoszcz",
+		"location" : "POINT (53.129727 18.038381)",
+		"radius" : 14.08,
+		"county_code" : "04-61"
+	},
+	{
+		"name" : "Rypin",
+		"location" : "POINT (53.063068 19.420671)",
+		"radius" : 3.24,
+		"county_code" : "04-12"
+	},
+	{
+		"name" : "Nakło nad Notecią",
+		"location" : "POINT (53.141437 17.601743)",
+		"radius" : 3.78,
+		"county_code" : "04-10"
+	},
+	{
+		"name" : "Tuchola",
+		"location" : "POINT (53.577952 17.880246)",
+		"radius" : 4.18,
+		"county_code" : "04-16"
+	},
+	{
+		"name" : "Kruszwica",
+		"location" : "POINT (52.670725 18.334585)",
+		"radius" : 3.08,
+		"county_code" : "04-07"
+	},
+	{
+		"name" : "Dobrzyń nad Wisłą",
+		"location" : "POINT (52.640173 19.319114)",
+		"radius" : 2.12,
+		"county_code" : "04-08"
+	},
+	{
+		"name" : "Ciechocinek",
+		"location" : "POINT (52.884338 18.794961)",
+		"radius" : 3.77,
+		"county_code" : "04-01"
+	},
+	{
+		"name" : "Pakość",
+		"location" : "POINT (52.805392 18.086421)",
+		"radius" : 1.72,
+		"county_code" : "04-07"
+	},
+	{
+		"name" : "Łasin",
+		"location" : "POINT (53.517927 19.098685)",
+		"radius" : 3.06,
+		"county_code" : "04-06"
+	},
+	{
+		"name" : "Grudziądz",
+		"location" : "POINT (53.472458 18.778493)",
+		"radius" : 8.39,
+		"county_code" : "04-62"
+	},
+	{
+		"name" : "Świecie",
+		"location" : "POINT (53.407956 18.417351)",
+		"radius" : 4.76,
+		"county_code" : "04-14"
+	},
+	{
+		"name" : "Barcin",
+		"location" : "POINT (52.864021 17.939943)",
+		"radius" : 2.01,
+		"county_code" : "04-19"
+	},
+	{
+		"name" : "Toruń",
+		"location" : "POINT (53.014484 18.601448)",
+		"radius" : 11.01,
+		"county_code" : "04-63"
+	},
+	{
+		"name" : "Strzelno",
+		"location" : "POINT (52.631568 18.161959)",
+		"radius" : 2.20,
+		"county_code" : "04-09"
+	},
+	{
+		"name" : "Wąbrzeźno",
+		"location" : "POINT (53.278356 18.952394)",
+		"radius" : 3.12,
+		"county_code" : "04-17"
+	},
+	{
+		"name" : "Żnin",
+		"location" : "POINT (52.844653 17.729941)",
+		"radius" : 3.04,
+		"county_code" : "04-19"
+	},
+	{
+		"name" : "Chełmno",
+		"location" : "POINT (53.352402 18.425496)",
+		"radius" : 4.01,
+		"county_code" : "04-04"
+	},
+	{
+		"name" : "Włocławek",
+		"location" : "POINT (52.665381 19.060831)",
+		"radius" : 11.36,
+		"county_code" : "04-64"
+	},
+	{
+		"name" : "Kamień Krajeński",
+		"location" : "POINT (53.532834 17.527265)",
+		"radius" : 2.08,
+		"county_code" : "04-13"
+	},
+	{
+		"name" : "Nieszawa",
+		"location" : "POINT (52.839616 18.886434)",
+		"radius" : 2.76,
+		"county_code" : "04-01"
+	},
+	{
+		"name" : "Golub-Dobrzyń",
+		"location" : "POINT (53.112231 19.054137)",
+		"radius" : 2.56,
+		"county_code" : "04-05"
+	},
+	{
+		"name" : "Solec Kujawski",
+		"location" : "POINT (53.074547 18.233922)",
+		"radius" : 3.87,
+		"county_code" : "04-03"
+	},
+	{
+		"name" : "Brodnica",
+		"location" : "POINT (53.257961 19.406477)",
+		"radius" : 5.17,
+		"county_code" : "04-02"
+	},
+	{
+		"name" : "Radzyń Chełmiński",
+		"location" : "POINT (53.386217 18.936151)",
+		"radius" : 1.55,
+		"county_code" : "04-06"
+	},
+	{
+		"name" : "Więcbork",
+		"location" : "POINT (53.354316 17.492464)",
+		"radius" : 2.18,
+		"county_code" : "04-13"
+	},
+	{
+		"name" : "Kowalewo Pomorskie",
+		"location" : "POINT (53.157255 18.887338)",
+		"radius" : 2.44,
+		"county_code" : "04-05"
+	},
+	{
+		"name" : "Łabiszyn",
+		"location" : "POINT (52.952006 17.915342)",
+		"radius" : 1.90,
+		"county_code" : "04-19"
+	},
+	{
+		"name" : "Mrocza",
+		"location" : "POINT (53.242414 17.596957)",
+		"radius" : 2.14,
+		"county_code" : "04-10"
+	},
+	{
+		"name" : "Gniewkowo",
+		"location" : "POINT (52.899902 18.420918)",
+		"radius" : 3.15,
+		"county_code" : "04-07"
+	},
+	{
+		"name" : "Jabłonowo Pomorskie",
+		"location" : "POINT (53.391873 19.160318)",
+		"radius" : 1.85,
+		"county_code" : "04-02"
+	},
+	{
+		"name" : "Kcynia",
+		"location" : "POINT (52.990937 17.487141)",
+		"radius" : 2.43,
+		"county_code" : "04-10"
+	},
+	{
+		"name" : "Radziejów",
+		"location" : "POINT (52.619102 18.531002)",
+		"radius" : 2.18,
+		"county_code" : "04-11"
+	},
+	{
+		"name" : "Janów Lubelski",
+		"location" : "POINT (50.700699 22.413651)",
+		"radius" : 4.12,
+		"county_code" : "06-05"
+	},
+	{
+		"name" : "Krasnystaw",
+		"location" : "POINT (50.991889 23.16979)",
+		"radius" : 6.74,
+		"county_code" : "06-06"
+	},
+	{
+		"name" : "Ostrów Lubelski",
+		"location" : "POINT (51.491182 22.846187)",
+		"radius" : 5.53,
+		"county_code" : "06-08"
+	},
+	{
+		"name" : "Poniatowa",
+		"location" : "POINT (51.183035 22.057894)",
+		"radius" : 3.97,
+		"county_code" : "06-12"
+	},
+	{
+		"name" : "Łuków",
+		"location" : "POINT (51.925294 22.385492)",
+		"radius" : 5.46,
+		"county_code" : "06-11"
+	},
+	{
+		"name" : "Zwierzyniec",
+		"location" : "POINT (50.606313 22.973176)",
+		"radius" : 2.77,
+		"county_code" : "06-20"
+	},
+	{
+		"name" : "Kazimierz Dolny",
+		"location" : "POINT (51.30692 21.950078)",
+		"radius" : 5.85,
+		"county_code" : "06-14"
+	},
+	{
+		"name" : "Włodawa",
+		"location" : "POINT (51.541303 23.533804)",
+		"radius" : 4.20,
+		"county_code" : "06-19"
+	},
+	{
+		"name" : "Lublin",
+		"location" : "POINT (51.218183 22.563665)",
+		"radius" : 11.59,
+		"county_code" : "06-63"
+	},
+	{
+		"name" : "Józefów",
+		"location" : "POINT (50.478691 23.053722)",
+		"radius" : 2.14,
+		"county_code" : "06-02"
+	},
+	{
+		"name" : "Opole Lubelskie",
+		"location" : "POINT (51.148592 21.969693)",
+		"radius" : 3.63,
+		"county_code" : "06-12"
+	},
+	{
+		"name" : "Kock",
+		"location" : "POINT (51.651924 22.427822)",
+		"radius" : 4.68,
+		"county_code" : "06-08"
+	},
+	{
+		"name" : "Świdnik",
+		"location" : "POINT (51.216713 22.684936)",
+		"radius" : 4.42,
+		"county_code" : "06-17"
+	},
+	{
+		"name" : "Dęblin",
+		"location" : "POINT (51.567256 21.874336)",
+		"radius" : 5.94,
+		"county_code" : "06-16"
+	},
+	{
+		"name" : "Chełm",
+		"location" : "POINT (51.135601 23.496203)",
+		"radius" : 6.41,
+		"county_code" : "06-62"
+	},
+	{
+		"name" : "Frampol",
+		"location" : "POINT (50.67408 22.665172)",
+		"radius" : 2.38,
+		"county_code" : "06-02"
+	},
+	{
+		"name" : "Parczew",
+		"location" : "POINT (51.638762 22.893066)",
+		"radius" : 3.30,
+		"county_code" : "06-13"
+	},
+	{
+		"name" : "Łęczna",
+		"location" : "POINT (51.302593 22.885179)",
+		"radius" : 4.87,
+		"county_code" : "06-10"
+	},
+	{
+		"name" : "Kraśnik",
+		"location" : "POINT (50.943449 22.213482)",
+		"radius" : 6.49,
+		"county_code" : "06-07"
+	},
+	{
+		"name" : "Stoczek Łukowski",
+		"location" : "POINT (51.957077 21.957995)",
+		"radius" : 2.86,
+		"county_code" : "06-11"
+	},
+	{
+		"name" : "Tarnogród",
+		"location" : "POINT (50.36421 22.742983)",
+		"radius" : 3.02,
+		"county_code" : "06-02"
+	},
+	{
+		"name" : "Tomaszów Lubelski",
+		"location" : "POINT (50.447875 23.426498)",
+		"radius" : 3.33,
+		"county_code" : "06-18"
+	},
+	{
+		"name" : "Ryki",
+		"location" : "POINT (51.625974 21.926352)",
+		"radius" : 4.60,
+		"county_code" : "06-16"
+	},
+	{
+		"name" : "Rejowiec Fabryczny",
+		"location" : "POINT (51.119214 23.24986)",
+		"radius" : 3.81,
+		"county_code" : "06-03"
+	},
+	{
+		"name" : "Biała Podlaska",
+		"location" : "POINT (52.02902 23.138281)",
+		"radius" : 6.18,
+		"county_code" : "06-61"
+	},
+	{
+		"name" : "Krasnobród",
+		"location" : "POINT (50.540363 23.212017)",
+		"radius" : 2.76,
+		"county_code" : "06-20"
+	},
+	{
+		"name" : "Lubartów",
+		"location" : "POINT (51.458407 22.605893)",
+		"radius" : 3.71,
+		"county_code" : "06-08"
+	},
+	{
+		"name" : "Biłgoraj",
+		"location" : "POINT (50.539011 22.711695)",
+		"radius" : 3.89,
+		"county_code" : "06-02"
+	},
+	{
+		"name" : "Zamość",
+		"location" : "POINT (50.721397 23.248516)",
+		"radius" : 5.22,
+		"county_code" : "06-64"
+	},
+	{
+		"name" : "Annopol",
+		"location" : "POINT (50.892092 21.867484)",
+		"radius" : 3.01,
+		"county_code" : "06-07"
+	},
+	{
+		"name" : "Piaski",
+		"location" : "POINT (51.12793 22.837384)",
+		"radius" : 2.95,
+		"county_code" : "06-17"
+	},
+	{
+		"name" : "Międzyrzec Podlaski",
+		"location" : "POINT (51.981009 22.776972)",
+		"radius" : 4.27,
+		"county_code" : "06-01"
+	},
+	{
+		"name" : "Bełżyce",
+		"location" : "POINT (51.166216 22.265324)",
+		"radius" : 5.01,
+		"county_code" : "06-09"
+	},
+	{
+		"name" : "Szczebrzeszyn",
+		"location" : "POINT (50.701737 22.951142)",
+		"radius" : 5.45,
+		"county_code" : "06-20"
+	},
+	{
+		"name" : "Terespol",
+		"location" : "POINT (52.076533 23.619012)",
+		"radius" : 3.19,
+		"county_code" : "06-01"
+	},
+	{
+		"name" : "Radzyń Podlaski",
+		"location" : "POINT (51.776838 22.626461)",
+		"radius" : 4.43,
+		"county_code" : "06-15"
+	},
+	{
+		"name" : "Hrubieszów",
+		"location" : "POINT (50.806796 23.890501)",
+		"radius" : 5.99,
+		"county_code" : "06-04"
+	},
+	{
+		"name" : "Puławy",
+		"location" : "POINT (51.426583 21.977218)",
+		"radius" : 7.18,
+		"county_code" : "06-14"
+	},
+	{
+		"name" : "Tyszowce",
+		"location" : "POINT (50.62467 23.723374)",
+		"radius" : 4.15,
+		"county_code" : "06-18"
+	},
+	{
+		"name" : "Nałęczów",
+		"location" : "POINT (51.281223 22.212174)",
+		"radius" : 2.96,
+		"county_code" : "06-14"
+	},
+	{
+		"name" : "Bychawa",
+		"location" : "POINT (51.017274 22.534894)",
+		"radius" : 2.65,
+		"county_code" : "06-09"
+	},
+	{
+		"name" : "Siedliszcze",
+		"location" : "POINT (51.192901 23.161026)",
+		"radius" : 4.22,
+		"county_code" : "06-03"
+	},
+	{
+		"name" : "Urzędów",
+		"location" : "POINT (50.984278 22.151402)",
+		"radius" : 3.68,
+		"county_code" : "06-07"
+	},
+	{
+		"name" : "Izbica",
+		"location" : "POINT (50.892018 23.156687)",
+		"radius" : 3.07,
+		"county_code" : "06-06"
+	},
+	{
+		"name" : "Modliborzyce",
+		"location" : "POINT (50.750072 22.337688)",
+		"radius" : 3.93,
+		"county_code" : "06-05"
+	},
+	{
+		"name" : "Czemierniki",
+		"location" : "POINT (51.676637 22.642111)",
+		"radius" : 2.28,
+		"county_code" : "06-15"
+	},
+	{
+		"name" : "Józefów nad Wisłą",
+		"location" : "POINT (51.040853 21.842875)",
+		"radius" : 1.89,
+		"county_code" : "06-12"
+	},
+	{
+		"name" : "Piszczac",
+		"location" : "POINT (51.978993 23.380833)",
+		"radius" : 1.81,
+		"county_code" : "06-01"
+	},
+	{
+		"name" : "Lubycza Królewska",
+		"location" : "POINT (50.338788 23.518628)",
+		"radius" : 2.44,
+		"county_code" : "06-18"
+	},
+	{
+		"name" : "Rejowiec",
+		"location" : "POINT (51.089648 23.296981)",
+		"radius" : 2.83,
+		"county_code" : "06-03"
+	},
+	{
+		"name" : "Końskowola",
+		"location" : "POINT (51.410813 22.061417)",
+		"radius" : 3.14,
+		"county_code" : "06-14"
+	},
+	{
+		"name" : "Kurów",
+		"location" : "POINT (51.390775 22.169068)",
+		"radius" : 3.86,
+		"county_code" : "06-14"
+	},
+	{
+		"name" : "Turobin",
+		"location" : "POINT (50.827109 22.744778)",
+		"radius" : 1.28,
+		"county_code" : "06-02"
+	},
+	{
+		"name" : "Goraj",
+		"location" : "POINT (50.715014 22.644338)",
+		"radius" : 2.83,
+		"county_code" : "06-02"
+	},
+	{
+		"name" : "Kamionka",
+		"location" : "POINT (51.470953 22.466907)",
+		"radius" : 2.44,
+		"county_code" : "06-08"
+	},
+	{
+		"name" : "Wąwolnica",
+		"location" : "POINT (51.276105 22.146585)",
+		"radius" : 2.97,
+		"county_code" : "06-14"
+	},
+	{
+		"name" : "Łaszczów",
+		"location" : "POINT (50.529824 23.718871)",
+		"radius" : 2.36,
+		"county_code" : "06-18"
+	},
+	{
+		"name" : "Otyń",
+		"location" : "POINT (51.854363 15.718259)",
+		"radius" : 2.86,
+		"county_code" : "08-04"
+	},
+	{
+		"name" : "Brody",
+		"location" : "POINT (51.787466 14.762856)",
+		"radius" : 2.30,
+		"county_code" : "08-11"
+	},
+	{
+		"name" : "Kostrzyn nad Odrą",
+		"location" : "POINT (52.616278 14.640237)",
+		"radius" : 7.11,
+		"county_code" : "08-01"
+	},
+	{
+		"name" : "Dobiegniew",
+		"location" : "POINT (52.968609 15.764942)",
+		"radius" : 3.26,
+		"county_code" : "08-06"
+	},
+	{
+		"name" : "Sława",
+		"location" : "POINT (51.893911 16.02433)",
+		"radius" : 5.65,
+		"county_code" : "08-12"
+	},
+	{
+		"name" : "Szlichtyngowa",
+		"location" : "POINT (51.708131 16.239446)",
+		"radius" : 1.33,
+		"county_code" : "08-12"
+	},
+	{
+		"name" : "Wschowa",
+		"location" : "POINT (51.807416 16.321501)",
+		"radius" : 3.01,
+		"county_code" : "08-12"
+	},
+	{
+		"name" : "Bytom Odrzański",
+		"location" : "POINT (51.728172 15.824124)",
+		"radius" : 1.53,
+		"county_code" : "08-04"
+	},
+	{
+		"name" : "Gorzów Wielkopolski",
+		"location" : "POINT (52.730556 15.217154)",
+		"radius" : 8.15,
+		"county_code" : "08-61"
+	},
+	{
+		"name" : "Babimost",
+		"location" : "POINT (52.164728 15.828776)",
+		"radius" : 1.68,
+		"county_code" : "08-09"
+	},
+	{
+		"name" : "Nowogród Bobrzański",
+		"location" : "POINT (51.801866 15.232221)",
+		"radius" : 3.42,
+		"county_code" : "08-09"
+	},
+	{
+		"name" : "Sulęcin",
+		"location" : "POINT (52.447545 15.120314)",
+		"radius" : 3.07,
+		"county_code" : "08-07"
+	},
+	{
+		"name" : "Cybinka",
+		"location" : "POINT (52.1945 14.798822)",
+		"radius" : 2.42,
+		"county_code" : "08-05"
+	},
+	{
+		"name" : "Gozdnica",
+		"location" : "POINT (51.453662 15.085685)",
+		"radius" : 4.12,
+		"county_code" : "08-10"
+	},
+	{
+		"name" : "Zbąszynek",
+		"location" : "POINT (52.247057 15.825884)",
+		"radius" : 2.11,
+		"county_code" : "08-08"
+	},
+	{
+		"name" : "Trzciel",
+		"location" : "POINT (52.36383 15.876096)",
+		"radius" : 1.64,
+		"county_code" : "08-03"
+	},
+	{
+		"name" : "Małomice",
+		"location" : "POINT (51.556891 15.45617)",
+		"radius" : 2.71,
+		"county_code" : "08-10"
+	},
+	{
+		"name" : "Witnica",
+		"location" : "POINT (52.678224 14.888591)",
+		"radius" : 3.06,
+		"county_code" : "08-01"
+	},
+	{
+		"name" : "Słubice",
+		"location" : "POINT (52.359001 14.58991)",
+		"radius" : 4.16,
+		"county_code" : "08-05"
+	},
+	{
+		"name" : "Sulechów",
+		"location" : "POINT (52.086064 15.614294)",
+		"radius" : 3.10,
+		"county_code" : "08-09"
+	},
+	{
+		"name" : "Szprotawa",
+		"location" : "POINT (51.560901 15.521988)",
+		"radius" : 3.55,
+		"county_code" : "08-10"
+	},
+	{
+		"name" : "Skwierzyna",
+		"location" : "POINT (52.59111 15.505935)",
+		"radius" : 5.85,
+		"county_code" : "08-03"
+	},
+	{
+		"name" : "Żagań",
+		"location" : "POINT (51.614984 15.315669)",
+		"radius" : 5.87,
+		"county_code" : "08-10"
+	},
+	{
+		"name" : "Krosno Odrzańskie",
+		"location" : "POINT (52.041076 15.101489)",
+		"radius" : 3.53,
+		"county_code" : "08-02"
+	},
+	{
+		"name" : "Kożuchów",
+		"location" : "POINT (51.746792 15.597404)",
+		"radius" : 2.48,
+		"county_code" : "08-04"
+	},
+	{
+		"name" : "Lubsko",
+		"location" : "POINT (51.779079 14.955479)",
+		"radius" : 3.61,
+		"county_code" : "08-11"
+	},
+	{
+		"name" : "Nowa Sól",
+		"location" : "POINT (51.803404 15.711852)",
+		"radius" : 4.84,
+		"county_code" : "08-04"
+	},
+	{
+		"name" : "Świebodzin",
+		"location" : "POINT (52.248948 15.5257)",
+		"radius" : 3.94,
+		"county_code" : "08-08"
+	},
+	{
+		"name" : "Łęknica",
+		"location" : "POINT (51.5473 14.756294)",
+		"radius" : 4.53,
+		"county_code" : "08-11"
+	},
+	{
+		"name" : "Jasień",
+		"location" : "POINT (51.752297 15.015442)",
+		"radius" : 2.12,
+		"county_code" : "08-11"
+	},
+	{
+		"name" : "Torzym",
+		"location" : "POINT (52.311687 15.080895)",
+		"radius" : 3.62,
+		"county_code" : "08-07"
+	},
+	{
+		"name" : "Lubniewice",
+		"location" : "POINT (52.51012 15.238637)",
+		"radius" : 3.64,
+		"county_code" : "08-07"
+	},
+	{
+		"name" : "Ośno Lubuskie",
+		"location" : "POINT (52.456171 14.871481)",
+		"radius" : 2.52,
+		"county_code" : "08-05"
+	},
+	{
+		"name" : "Rzepin",
+		"location" : "POINT (52.343739 14.836335)",
+		"radius" : 3.64,
+		"county_code" : "08-05"
+	},
+	{
+		"name" : "Nowe Miasteczko",
+		"location" : "POINT (51.689877 15.733585)",
+		"radius" : 1.55,
+		"county_code" : "08-04"
+	},
+	{
+		"name" : "Drezdenko",
+		"location" : "POINT (52.844623 15.841279)",
+		"radius" : 3.51,
+		"county_code" : "08-06"
+	},
+	{
+		"name" : "Żary",
+		"location" : "POINT (51.624549 15.145445)",
+		"radius" : 6.17,
+		"county_code" : "08-11"
+	},
+	{
+		"name" : "Międzyrzecz",
+		"location" : "POINT (52.446132 15.579628)",
+		"radius" : 4.08,
+		"county_code" : "08-03"
+	},
+	{
+		"name" : "Zielona Góra",
+		"location" : "POINT (51.927623 15.529186)",
+		"radius" : 14.63,
+		"county_code" : "08-62"
+	},
+	{
+		"name" : "Strzelce Krajeńskie",
+		"location" : "POINT (52.875957 15.532543)",
+		"radius" : 2.31,
+		"county_code" : "08-06"
+	},
+	{
+		"name" : "Iłowa",
+		"location" : "POINT (51.502454 15.204456)",
+		"radius" : 2.88,
+		"county_code" : "08-10"
+	},
+	{
+		"name" : "Gubin",
+		"location" : "POINT (51.957309 14.748739)",
+		"radius" : 5.27,
+		"county_code" : "08-02"
+	},
+	{
+		"name" : "Kargowa",
+		"location" : "POINT (52.069122 15.863094)",
+		"radius" : 2.18,
+		"county_code" : "08-09"
+	},
+	{
+		"name" : "Czerwieńsk",
+		"location" : "POINT (52.018508 15.403687)",
+		"radius" : 3.38,
+		"county_code" : "08-09"
+	},
+	{
+		"name" : "Tuszyn",
+		"location" : "POINT (51.605417 19.534649)",
+		"radius" : 4.82,
+		"county_code" : "10-06"
+	},
+	{
+		"name" : "Wieluń",
+		"location" : "POINT (51.225455 18.569132)",
+		"radius" : 3.68,
+		"county_code" : "10-17"
+	},
+	{
+		"name" : "Złoczew",
+		"location" : "POINT (51.412287 18.600858)",
+		"radius" : 3.77,
+		"county_code" : "10-14"
+	},
+	{
+		"name" : "Łowicz",
+		"location" : "POINT (52.101134 19.94471)",
+		"radius" : 5.01,
+		"county_code" : "10-05"
+	},
+	{
+		"name" : "Poddębice",
+		"location" : "POINT (51.894827 18.964523)",
+		"radius" : 2.29,
+		"county_code" : "10-11"
+	},
+	{
+		"name" : "Wieruszów",
+		"location" : "POINT (51.296401 18.151886)",
+		"radius" : 2.59,
+		"county_code" : "10-18"
+	},
+	{
+		"name" : "Zduńska Wola",
+		"location" : "POINT (51.595085 18.964758)",
+		"radius" : 5.70,
+		"county_code" : "10-19"
+	},
+	{
+		"name" : "Aleksandrów Łódzki",
+		"location" : "POINT (51.81602 19.303808)",
+		"radius" : 3.70,
+		"county_code" : "10-20"
+	},
+	{
+		"name" : "Zelów",
+		"location" : "POINT (51.472888 19.22507)",
+		"radius" : 3.16,
+		"county_code" : "10-01"
+	},
+	{
+		"name" : "Kutno",
+		"location" : "POINT (52.222282 19.371138)",
+		"radius" : 6.56,
+		"county_code" : "10-02"
+	},
+	{
+		"name" : "Pajęczno",
+		"location" : "POINT (51.135647 18.99793)",
+		"radius" : 4.29,
+		"county_code" : "10-09"
+	},
+	{
+		"name" : "Warta",
+		"location" : "POINT (51.127556 18.702486)",
+		"radius" : 0.11,
+		"county_code" : "10-14"
+	},
+	{
+		"name" : "Stryków",
+		"location" : "POINT (51.902278 19.615718)",
+		"radius" : 2.84,
+		"county_code" : "10-20"
+	},
+	{
+		"name" : "Pabianice",
+		"location" : "POINT (51.665742 19.354854)",
+		"radius" : 6.69,
+		"county_code" : "10-08"
+	},
+	{
+		"name" : "Łódź",
+		"location" : "POINT (51.772985 19.480405)",
+		"radius" : 14.61,
+		"county_code" : "10-61"
+	},
+	{
+		"name" : "Rawa Mazowiecka",
+		"location" : "POINT (51.758284 20.255037)",
+		"radius" : 4.51,
+		"county_code" : "10-13"
+	},
+	{
+		"name" : "Biała Rawska",
+		"location" : "POINT (51.798429 20.47409)",
+		"radius" : 3.29,
+		"county_code" : "10-13"
+	},
+	{
+		"name" : "Sieradz",
+		"location" : "POINT (51.601723 18.738381)",
+		"radius" : 7.42,
+		"county_code" : "10-14"
+	},
+	{
+		"name" : "Przedbórz",
+		"location" : "POINT (51.082692 19.874579)",
+		"radius" : 2.94,
+		"county_code" : "10-12"
+	},
+	{
+		"name" : "Ozorków",
+		"location" : "POINT (51.958695 19.29671)",
+		"radius" : 4.22,
+		"county_code" : "10-20"
+	},
+	{
+		"name" : "Opoczno",
+		"location" : "POINT (51.377455 20.270065)",
+		"radius" : 5.26,
+		"county_code" : "10-07"
+	},
+	{
+		"name" : "Skierniewice",
+		"location" : "POINT (51.958073 20.169121)",
+		"radius" : 5.92,
+		"county_code" : "10-63"
+	},
+	{
+		"name" : "Szadek",
+		"location" : "POINT (51.702786 18.980293)",
+		"radius" : 4.02,
+		"county_code" : "10-19"
+	},
+	{
+		"name" : "Głowno",
+		"location" : "POINT (51.961993 19.714108)",
+		"radius" : 4.31,
+		"county_code" : "10-20"
+	},
+	{
+		"name" : "Piotrków Trybunalski",
+		"location" : "POINT (51.412893 19.716577)",
+		"radius" : 7.87,
+		"county_code" : "10-62"
+	},
+	{
+		"name" : "Żychlin",
+		"location" : "POINT (52.246025 19.623557)",
+		"radius" : 2.63,
+		"county_code" : "10-02"
+	},
+	{
+		"name" : "Błaszki",
+		"location" : "POINT (51.652401 18.441739)",
+		"radius" : 1.10,
+		"county_code" : "10-14"
+	},
+	{
+		"name" : "Tomaszów Mazowiecki",
+		"location" : "POINT (51.520598 20.025975)",
+		"radius" : 6.15,
+		"county_code" : "10-16"
+	},
+	{
+		"name" : "Kamieńsk",
+		"location" : "POINT (51.195216 19.499488)",
+		"radius" : 3.71,
+		"county_code" : "10-12"
+	},
+	{
+		"name" : "Łęczyca",
+		"location" : "POINT (52.054392 19.19911)",
+		"radius" : 2.55,
+		"county_code" : "10-04"
+	},
+	{
+		"name" : "Radomsko",
+		"location" : "POINT (51.071199 19.442788)",
+		"radius" : 7.00,
+		"county_code" : "10-12"
+	},
+	{
+		"name" : "Konstantynów Łódzki",
+		"location" : "POINT (51.757178 19.310148)",
+		"radius" : 5.35,
+		"county_code" : "10-08"
+	},
+	{
+		"name" : "Sulejów",
+		"location" : "POINT (51.353971 19.87864)",
+		"radius" : 4.80,
+		"county_code" : "10-10"
+	},
+	{
+		"name" : "Bełchatów",
+		"location" : "POINT (51.354579 19.362703)",
+		"radius" : 5.81,
+		"county_code" : "10-01"
+	},
+	{
+		"name" : "Łask",
+		"location" : "POINT (51.601807 19.158291)",
+		"radius" : 4.81,
+		"county_code" : "10-03"
+	},
+	{
+		"name" : "Drzewica",
+		"location" : "POINT (51.446538 20.471113)",
+		"radius" : 2.63,
+		"county_code" : "10-07"
+	},
+	{
+		"name" : "Zgierz",
+		"location" : "POINT (51.855602 19.394062)",
+		"radius" : 5.74,
+		"county_code" : "10-20"
+	},
+	{
+		"name" : "Działoszyn",
+		"location" : "POINT (51.117628 18.870346)",
+		"radius" : 2.09,
+		"county_code" : "10-09"
+	},
+	{
+		"name" : "Koluszki",
+		"location" : "POINT (51.745766 19.816799)",
+		"radius" : 2.99,
+		"county_code" : "10-06"
+	},
+	{
+		"name" : "Krośniewice",
+		"location" : "POINT (52.255402 19.17055)",
+		"radius" : 1.71,
+		"county_code" : "10-02"
+	},
+	{
+		"name" : "Uniejów",
+		"location" : "POINT (51.968339 18.797351)",
+		"radius" : 3.46,
+		"county_code" : "10-11"
+	},
+	{
+		"name" : "Brzeziny",
+		"location" : "POINT (51.800661 19.749435)",
+		"radius" : 3.88,
+		"county_code" : "10-21"
+	},
+	{
+		"name" : "Lutomiersk",
+		"location" : "POINT (51.755763 19.202143)",
+		"radius" : 2.55,
+		"county_code" : "10-08"
+	},
+	{
+		"name" : "Bolimów",
+		"location" : "POINT (52.073967 20.163275)",
+		"radius" : 2.15,
+		"county_code" : "10-15"
+	},
+	{
+		"name" : "Rzgów",
+		"location" : "POINT (51.659329 19.493479)",
+		"radius" : 3.82,
+		"county_code" : "10-06"
+	},
+	{
+		"name" : "Bolesławiec",
+		"location" : "POINT (51.19538 18.209082)",
+		"radius" : 2.16,
+		"county_code" : "10-18"
+	},
+	{
+		"name" : "Białaczów",
+		"location" : "POINT (51.290988 20.282267)",
+		"radius" : 4.32,
+		"county_code" : "10-07"
+	},
+	{
+		"name" : "Ujazd",
+		"location" : "POINT (51.599542 19.920043)",
+		"radius" : 3.40,
+		"county_code" : "10-16"
+	},
+	{
+		"name" : "Osjaków",
+		"location" : "POINT (51.294556 18.805281)",
+		"radius" : 2.95,
+		"county_code" : "10-17"
+	},
+	{
+		"name" : "Parzęczew",
+		"location" : "POINT (51.944802 19.202056)",
+		"radius" : 2.45,
+		"county_code" : "10-20"
+	},
+	{
+		"name" : "Rozprza",
+		"location" : "POINT (51.306878 19.64612)",
+		"radius" : 2.10,
+		"county_code" : "10-10"
+	},
+	{
+		"name" : "Dąbrowice",
+		"location" : "POINT (52.311068 19.085402)",
+		"radius" : 3.65,
+		"county_code" : "10-02"
+	},
+	{
+		"name" : "Jeżów",
+		"location" : "POINT (51.820749 19.975455)",
+		"radius" : 3.93,
+		"county_code" : "10-21"
+	},
+	{
+		"name" : "Kiernozia",
+		"location" : "POINT (52.271242 19.871229)",
+		"radius" : 1.97,
+		"county_code" : "10-05"
+	},
+	{
+		"name" : "Lututów",
+		"location" : "POINT (51.376743 18.436049)",
+		"radius" : 4.21,
+		"county_code" : "10-18"
+	},
+	{
+		"name" : "Inowłódz",
+		"location" : "POINT (51.520184 20.22456)",
+		"radius" : 4.18,
+		"county_code" : "10-16"
+	},
+	{
+		"name" : "Grabów",
+		"location" : "POINT (52.126232 19.001044)",
+		"radius" : 2.85,
+		"county_code" : "10-04"
+	},
+	{
+		"name" : "Piątek",
+		"location" : "POINT (52.076357 19.466019)",
+		"radius" : 2.18,
+		"county_code" : "10-04"
+	},
+	{
+		"name" : "Żarnów",
+		"location" : "POINT (51.244578 20.180488)",
+		"radius" : 3.32,
+		"county_code" : "10-07"
+	},
+	{
+		"name" : "Wolbórz",
+		"location" : "POINT (51.496652 19.832273)",
+		"radius" : 3.41,
+		"county_code" : "10-10"
+	},
+	{
+		"name" : "Koszyce",
+		"location" : "POINT (50.17466 20.580442)",
+		"radius" : 1.97,
+		"county_code" : "12-14"
+	},
+	{
+		"name" : "Nowe Brzesko",
+		"location" : "POINT (50.133027 20.363119)",
+		"radius" : 2.81,
+		"county_code" : "12-14"
+	},
+	{
+		"name" : "Radłów",
+		"location" : "POINT (50.083696 20.841964)",
+		"radius" : 4.74,
+		"county_code" : "12-16"
+	},
+	{
+		"name" : "Szczucin",
+		"location" : "POINT (50.312808 21.08012)",
+		"radius" : 2.64,
+		"county_code" : "12-04"
+	},
+	{
+		"name" : "Książ Wielki",
+		"location" : "POINT (50.443763 20.139963)",
+		"radius" : 2.66,
+		"county_code" : "12-08"
+	},
+	{
+		"name" : "Czarny Dunajec",
+		"location" : "POINT (49.446954 19.839357)",
+		"radius" : 5.17,
+		"county_code" : "12-11"
+	},
+	{
+		"name" : "Bobowa",
+		"location" : "POINT (49.711927 20.955984)",
+		"radius" : 2.83,
+		"county_code" : "12-05"
+	},
+	{
+		"name" : "Zakliczyn",
+		"location" : "POINT (49.853004 20.805566)",
+		"radius" : 1.78,
+		"county_code" : "12-16"
+	},
+	{
+		"name" : "Ryglice",
+		"location" : "POINT (49.877613 21.141456)",
+		"radius" : 4.28,
+		"county_code" : "12-16"
+	},
+	{
+		"name" : "Rabka-Zdrój",
+		"location" : "POINT (49.619057 19.972871)",
+		"radius" : 6.05,
+		"county_code" : "12-11"
+	},
+	{
+		"name" : "Czchów",
+		"location" : "POINT (49.82748 20.661062)",
+		"radius" : 3.63,
+		"county_code" : "12-02"
+	},
+	{
+		"name" : "Tuchów",
+		"location" : "POINT (49.894082 21.059451)",
+		"radius" : 4.36,
+		"county_code" : "12-16"
+	},
+	{
+		"name" : "Krynica-Zdrój",
+		"location" : "POINT (49.415805 20.934244)",
+		"radius" : 5.83,
+		"county_code" : "12-10"
+	},
+	{
+		"name" : "Szczawnica",
+		"location" : "POINT (49.438553 20.497778)",
+		"radius" : 5.61,
+		"county_code" : "12-11"
+	},
+	{
+		"name" : "Wojnicz",
+		"location" : "POINT (49.957305 20.823475)",
+		"radius" : 3.04,
+		"county_code" : "12-16"
+	},
+	{
+		"name" : "Olkusz",
+		"location" : "POINT (50.285722 19.56178)",
+		"radius" : 4.51,
+		"county_code" : "12-12"
+	},
+	{
+		"name" : "Chełmek",
+		"location" : "POINT (50.111155 19.250043)",
+		"radius" : 3.22,
+		"county_code" : "12-13"
+	},
+	{
+		"name" : "Kęty",
+		"location" : "POINT (49.879535 19.210053)",
+		"radius" : 4.81,
+		"county_code" : "12-13"
+	},
+	{
+		"name" : "Skała",
+		"location" : "POINT (50.22765 19.85342)",
+		"radius" : 1.83,
+		"county_code" : "12-06"
+	},
+	{
+		"name" : "Słomniki",
+		"location" : "POINT (50.239952 20.076895)",
+		"radius" : 2.01,
+		"county_code" : "12-06"
+	},
+	{
+		"name" : "Libiąż",
+		"location" : "POINT (50.094903 19.318334)",
+		"radius" : 5.96,
+		"county_code" : "12-03"
+	},
+	{
+		"name" : "Nowy Sącz",
+		"location" : "POINT (49.61025 20.706641)",
+		"radius" : 7.44,
+		"county_code" : "12-62"
+	},
+	{
+		"name" : "Oświęcim",
+		"location" : "POINT (50.033318 19.256152)",
+		"radius" : 6.18,
+		"county_code" : "12-13"
+	},
+	{
+		"name" : "Niepołomice",
+		"location" : "POINT (50.034395 20.211898)",
+		"radius" : 5.74,
+		"county_code" : "12-19"
+	},
+	{
+		"name" : "Sucha Beskidzka",
+		"location" : "POINT (49.732741 19.577693)",
+		"radius" : 4.99,
+		"county_code" : "12-15"
+	},
+	{
+		"name" : "Stary Sącz",
+		"location" : "POINT (49.561803 20.635109)",
+		"radius" : 3.68,
+		"county_code" : "12-10"
+	},
+	{
+		"name" : "Świątniki Górne",
+		"location" : "POINT (49.932354 19.954691)",
+		"radius" : 1.99,
+		"county_code" : "12-06"
+	},
+	{
+		"name" : "Zator",
+		"location" : "POINT (49.98599 19.431056)",
+		"radius" : 3.30,
+		"county_code" : "12-13"
+	},
+	{
+		"name" : "Proszowice",
+		"location" : "POINT (50.188754 20.29297)",
+		"radius" : 2.32,
+		"county_code" : "12-14"
+	},
+	{
+		"name" : "Andrychów",
+		"location" : "POINT (49.853807 19.339295)",
+		"radius" : 3.00,
+		"county_code" : "12-18"
+	},
+	{
+		"name" : "Jordanów",
+		"location" : "POINT (49.648881 19.837081)",
+		"radius" : 4.35,
+		"county_code" : "12-15"
+	},
+	{
+		"name" : "Bukowno",
+		"location" : "POINT (50.260986 19.417138)",
+		"radius" : 7.79,
+		"county_code" : "12-12"
+	},
+	{
+		"name" : "Tarnów",
+		"location" : "POINT (50.026065 20.97798)",
+		"radius" : 7.52,
+		"county_code" : "12-63"
+	},
+	{
+		"name" : "Piwniczna-Zdrój",
+		"location" : "POINT (49.432561 20.672414)",
+		"radius" : 6.02,
+		"county_code" : "12-10"
+	},
+	{
+		"name" : "Sułkowice",
+		"location" : "POINT (49.840066 19.793073)",
+		"radius" : 4.07,
+		"county_code" : "12-09"
+	},
+	{
+		"name" : "Żabno",
+		"location" : "POINT (50.137877 20.876898)",
+		"radius" : 3.55,
+		"county_code" : "12-16"
+	},
+	{
+		"name" : "Chrzanów",
+		"location" : "POINT (50.129189 19.35945)",
+		"radius" : 7.18,
+		"county_code" : "12-03"
+	},
+	{
+		"name" : "Bochnia",
+		"location" : "POINT (49.974731 20.429361)",
+		"radius" : 5.15,
+		"county_code" : "12-01"
+	},
+	{
+		"name" : "Miechów",
+		"location" : "POINT (50.358764 20.027499)",
+		"radius" : 3.66,
+		"county_code" : "12-08"
+	},
+	{
+		"name" : "Nowy Wiśnicz",
+		"location" : "POINT (49.915098 20.45088)",
+		"radius" : 2.21,
+		"county_code" : "12-01"
+	},
+	{
+		"name" : "Mszana Dolna",
+		"location" : "POINT (49.681094 20.079355)",
+		"radius" : 5.12,
+		"county_code" : "12-07"
+	},
+	{
+		"name" : "Nowy Targ",
+		"location" : "POINT (49.489259 20.042968)",
+		"radius" : 6.66,
+		"county_code" : "12-11"
+	},
+	{
+		"name" : "Wadowice",
+		"location" : "POINT (49.884067 19.49545)",
+		"radius" : 3.10,
+		"county_code" : "12-18"
+	},
+	{
+		"name" : "Brzeszcze",
+		"location" : "POINT (49.990733 19.145799)",
+		"radius" : 3.94,
+		"county_code" : "12-13"
+	},
+	{
+		"name" : "Krzeszowice",
+		"location" : "POINT (50.144008 19.630928)",
+		"radius" : 3.60,
+		"county_code" : "12-06"
+	},
+	{
+		"name" : "Alwernia",
+		"location" : "POINT (50.056381 19.535017)",
+		"radius" : 2.70,
+		"county_code" : "12-03"
+	},
+	{
+		"name" : "Grybów",
+		"location" : "POINT (49.614936 20.957285)",
+		"radius" : 4.39,
+		"county_code" : "12-10"
+	},
+	{
+		"name" : "Muszyna",
+		"location" : "POINT (49.347238 20.910988)",
+		"radius" : 4.55,
+		"county_code" : "12-10"
+	},
+	{
+		"name" : "Myślenice",
+		"location" : "POINT (49.82774 19.936396)",
+		"radius" : 5.44,
+		"county_code" : "12-09"
+	},
+	{
+		"name" : "Dąbrowa Tarnowska",
+		"location" : "POINT (50.169652 20.994023)",
+		"radius" : 4.31,
+		"county_code" : "12-04"
+	},
+	{
+		"name" : "Kalwaria Zebrzydowska",
+		"location" : "POINT (49.86718 19.666406)",
+		"radius" : 2.23,
+		"county_code" : "12-18"
+	},
+	{
+		"name" : "Brzesko",
+		"location" : "POINT (49.974532 20.610792)",
+		"radius" : 3.22,
+		"county_code" : "12-02"
+	},
+	{
+		"name" : "Kraków",
+		"location" : "POINT (50.0469 20.00479)",
+		"radius" : 17.54,
+		"county_code" : "12-61"
+	},
+	{
+		"name" : "Gorlice",
+		"location" : "POINT (49.666316 21.165942)",
+		"radius" : 4.87,
+		"county_code" : "12-05"
+	},
+	{
+		"name" : "Biecz",
+		"location" : "POINT (49.732251 21.25902)",
+		"radius" : 3.96,
+		"county_code" : "12-05"
+	},
+	{
+		"name" : "Skawina",
+		"location" : "POINT (49.973031 19.825049)",
+		"radius" : 4.11,
+		"county_code" : "12-06"
+	},
+	{
+		"name" : "Maków Podhalański",
+		"location" : "POINT (49.739802 19.661252)",
+		"radius" : 4.33,
+		"county_code" : "12-15"
+	},
+	{
+		"name" : "Wolbrom",
+		"location" : "POINT (50.379862 19.771999)",
+		"radius" : 3.02,
+		"county_code" : "12-12"
+	},
+	{
+		"name" : "Limanowa",
+		"location" : "POINT (49.714993 20.410296)",
+		"radius" : 4.44,
+		"county_code" : "12-07"
+	},
+	{
+		"name" : "Ciężkowice",
+		"location" : "POINT (49.786517 20.988796)",
+		"radius" : 2.90,
+		"county_code" : "12-16"
+	},
+	{
+		"name" : "Dobczyce",
+		"location" : "POINT (49.879513 20.086149)",
+		"radius" : 3.31,
+		"county_code" : "12-09"
+	},
+	{
+		"name" : "Zakopane",
+		"location" : "POINT (49.27576 19.971772)",
+		"radius" : 8.22,
+		"county_code" : "12-17"
+	},
+	{
+		"name" : "Wieliczka",
+		"location" : "POINT (49.987749 20.04584)",
+		"radius" : 3.61,
+		"county_code" : "12-19"
+	},
+	{
+		"name" : "Trzebinia",
+		"location" : "POINT (50.179508 19.438095)",
+		"radius" : 6.36,
+		"county_code" : "12-03"
+	},
+	{
+		"name" : "Białobrzegi",
+		"location" : "POINT (51.647691 20.943274)",
+		"radius" : 2.85,
+		"county_code" : "14-01"
+	},
+	{
+		"name" : "Brwinów",
+		"location" : "POINT (52.150682 20.726087)",
+		"radius" : 3.93,
+		"county_code" : "14-21"
+	},
+	{
+		"name" : "Konstancin-Jeziorna",
+		"location" : "POINT (52.083873 21.105609)",
+		"radius" : 4.34,
+		"county_code" : "14-18"
+	},
+	{
+		"name" : "Pilawa",
+		"location" : "POINT (51.961273 21.532314)",
+		"radius" : 2.57,
+		"county_code" : "14-03"
+	},
+	{
+		"name" : "Grójec",
+		"location" : "POINT (51.868165 20.872463)",
+		"radius" : 2.74,
+		"county_code" : "14-06"
+	},
+	{
+		"name" : "Mogielnica",
+		"location" : "POINT (51.692152 20.703167)",
+		"radius" : 3.43,
+		"county_code" : "14-06"
+	},
+	{
+		"name" : "Warka",
+		"location" : "POINT (51.78472 21.176313)",
+		"radius" : 5.56,
+		"county_code" : "14-06"
+	},
+	{
+		"name" : "Józefów",
+		"location" : "POINT (52.128574 21.220061)",
+		"radius" : 5.05,
+		"county_code" : "14-17"
+	},
+	{
+		"name" : "Kałuszyn",
+		"location" : "POINT (52.214353 21.813706)",
+		"radius" : 3.22,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Sokołów Podlaski",
+		"location" : "POINT (52.414232 22.234014)",
+		"radius" : 4.06,
+		"county_code" : "14-29"
+	},
+	{
+		"name" : "Brok",
+		"location" : "POINT (52.69851 21.880314)",
+		"radius" : 6.47,
+		"county_code" : "14-16"
+	},
+	{
+		"name" : "Garwolin",
+		"location" : "POINT (51.895951 21.623194)",
+		"radius" : 4.70,
+		"county_code" : "14-03"
+	},
+	{
+		"name" : "Ostrów Mazowiecka",
+		"location" : "POINT (52.807089 21.891092)",
+		"radius" : 4.46,
+		"county_code" : "14-16"
+	},
+	{
+		"name" : "Zakroczym",
+		"location" : "POINT (52.442366 20.615159)",
+		"radius" : 4.18,
+		"county_code" : "14-14"
+	},
+	{
+		"name" : "Wyśmierzyce",
+		"location" : "POINT (51.621197 20.809803)",
+		"radius" : 4.27,
+		"county_code" : "14-01"
+	},
+	{
+		"name" : "Legionowo",
+		"location" : "POINT (52.404894 20.939314)",
+		"radius" : 3.55,
+		"county_code" : "14-08"
+	},
+	{
+		"name" : "Iłża",
+		"location" : "POINT (51.160061 21.244168)",
+		"radius" : 4.04,
+		"county_code" : "14-25"
+	},
+	{
+		"name" : "Piaseczno",
+		"location" : "POINT (52.073475 21.017137)",
+		"radius" : 4.18,
+		"county_code" : "14-18"
+	},
+	{
+		"name" : "Łomianki",
+		"location" : "POINT (52.333277 20.893915)",
+		"radius" : 2.94,
+		"county_code" : "14-32"
+	},
+	{
+		"name" : "Ożarów Mazowiecki",
+		"location" : "POINT (52.213747 20.802953)",
+		"radius" : 2.67,
+		"county_code" : "14-32"
+	},
+	{
+		"name" : "Ząbki",
+		"location" : "POINT (52.292485 21.112516)",
+		"radius" : 2.85,
+		"county_code" : "14-34"
+	},
+	{
+		"name" : "Tłuszcz",
+		"location" : "POINT (52.431589 21.432276)",
+		"radius" : 2.45,
+		"county_code" : "14-34"
+	},
+	{
+		"name" : "Błonie",
+		"location" : "POINT (52.195484 20.622809)",
+		"radius" : 2.97,
+		"county_code" : "14-32"
+	},
+	{
+		"name" : "Płońsk",
+		"location" : "POINT (52.626472 20.363008)",
+		"radius" : 3.18,
+		"county_code" : "14-20"
+	},
+	{
+		"name" : "Ciechanów",
+		"location" : "POINT (52.871085 20.614905)",
+		"radius" : 5.33,
+		"county_code" : "14-02"
+	},
+	{
+		"name" : "Góra Kalwaria",
+		"location" : "POINT (51.981904 21.197119)",
+		"radius" : 4.50,
+		"county_code" : "14-18"
+	},
+	{
+		"name" : "Marki",
+		"location" : "POINT (52.337004 21.119964)",
+		"radius" : 4.72,
+		"county_code" : "14-34"
+	},
+	{
+		"name" : "Nowe Miasto nad Pilicą",
+		"location" : "POINT (51.624845 20.56583)",
+		"radius" : 2.83,
+		"county_code" : "14-06"
+	},
+	{
+		"name" : "Otwock",
+		"location" : "POINT (52.116088 21.289344)",
+		"radius" : 6.50,
+		"county_code" : "14-17"
+	},
+	{
+		"name" : "Karczew",
+		"location" : "POINT (52.065732 21.277654)",
+		"radius" : 5.50,
+		"county_code" : "14-17"
+	},
+	{
+		"name" : "Siedlce",
+		"location" : "POINT (52.16175 22.275751)",
+		"radius" : 5.35,
+		"county_code" : "14-64"
+	},
+	{
+		"name" : "Mława",
+		"location" : "POINT (53.134251 20.381682)",
+		"radius" : 6.11,
+		"county_code" : "14-13"
+	},
+	{
+		"name" : "Zielonka",
+		"location" : "POINT (52.291356 21.290825)",
+		"radius" : 12.11,
+		"county_code" : "14-34"
+	},
+	{
+		"name" : "Pionki",
+		"location" : "POINT (51.471773 21.447539)",
+		"radius" : 5.09,
+		"county_code" : "14-25"
+	},
+	{
+		"name" : "Płock",
+		"location" : "POINT (52.535415 19.71497)",
+		"radius" : 9.21,
+		"county_code" : "14-62"
+	},
+	{
+		"name" : "Lipsko",
+		"location" : "POINT (51.163053 21.648508)",
+		"radius" : 3.58,
+		"county_code" : "14-09"
+	},
+	{
+		"name" : "Glinojeck",
+		"location" : "POINT (52.820569 20.296629)",
+		"radius" : 2.76,
+		"county_code" : "14-02"
+	},
+	{
+		"name" : "Różan",
+		"location" : "POINT (52.878501 21.39216)",
+		"radius" : 3.45,
+		"county_code" : "14-11"
+	},
+	{
+		"name" : "Skaryszew",
+		"location" : "POINT (51.301731 21.252396)",
+		"radius" : 5.52,
+		"county_code" : "14-25"
+	},
+	{
+		"name" : "Zwoleń",
+		"location" : "POINT (51.35685 21.586459)",
+		"radius" : 3.61,
+		"county_code" : "14-36"
+	},
+	{
+		"name" : "Milanówek",
+		"location" : "POINT (52.124752 20.670342)",
+		"radius" : 3.64,
+		"county_code" : "14-05"
+	},
+	{
+		"name" : "Podkowa Leśna",
+		"location" : "POINT (52.111247 20.746949)",
+		"radius" : 4.03,
+		"county_code" : "14-05"
+	},
+	{
+		"name" : "Maków Mazowiecki",
+		"location" : "POINT (52.861701 21.093103)",
+		"radius" : 2.82,
+		"county_code" : "14-11"
+	},
+	{
+		"name" : "Nasielsk",
+		"location" : "POINT (52.59377 20.811773)",
+		"radius" : 3.10,
+		"county_code" : "14-14"
+	},
+	{
+		"name" : "Łaskarzew",
+		"location" : "POINT (51.785514 21.608307)",
+		"radius" : 4.27,
+		"county_code" : "14-03"
+	},
+	{
+		"name" : "Piastów",
+		"location" : "POINT (52.185566 20.846304)",
+		"radius" : 1.97,
+		"county_code" : "14-21"
+	},
+	{
+		"name" : "Serock",
+		"location" : "POINT (52.517097 21.052111)",
+		"radius" : 3.47,
+		"county_code" : "14-08"
+	},
+	{
+		"name" : "Przysucha",
+		"location" : "POINT (51.352419 20.626411)",
+		"radius" : 2.86,
+		"county_code" : "14-23"
+	},
+	{
+		"name" : "Ostrołęka",
+		"location" : "POINT (53.07785 21.600843)",
+		"radius" : 5.81,
+		"county_code" : "14-61"
+	},
+	{
+		"name" : "Sochaczew",
+		"location" : "POINT (52.236269 20.244531)",
+		"radius" : 6.31,
+		"county_code" : "14-28"
+	},
+	{
+		"name" : "Mszczonów",
+		"location" : "POINT (51.977161 20.532185)",
+		"radius" : 2.97,
+		"county_code" : "14-38"
+	},
+	{
+		"name" : "Żuromin",
+		"location" : "POINT (53.061548 19.913083)",
+		"radius" : 3.13,
+		"county_code" : "14-37"
+	},
+	{
+		"name" : "Szydłowiec",
+		"location" : "POINT (51.22388 20.838075)",
+		"radius" : 4.96,
+		"county_code" : "14-30"
+	},
+	{
+		"name" : "Wyszogród",
+		"location" : "POINT (52.391737 20.191111)",
+		"radius" : 3.50,
+		"county_code" : "14-19"
+	},
+	{
+		"name" : "Kobyłka",
+		"location" : "POINT (52.340023 21.198776)",
+		"radius" : 4.16,
+		"county_code" : "14-34"
+	},
+	{
+		"name" : "Mińsk Mazowiecki",
+		"location" : "POINT (52.178966 21.556624)",
+		"radius" : 3.86,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Żelechów",
+		"location" : "POINT (51.799568 21.900947)",
+		"radius" : 3.59,
+		"county_code" : "14-03"
+	},
+	{
+		"name" : "Grodzisk Mazowiecki",
+		"location" : "POINT (52.105217 20.633201)",
+		"radius" : 3.03,
+		"county_code" : "14-05"
+	},
+	{
+		"name" : "Mordy",
+		"location" : "POINT (52.207084 22.510725)",
+		"radius" : 2.44,
+		"county_code" : "14-26"
+	},
+	{
+		"name" : "Węgrów",
+		"location" : "POINT (52.400814 22.02964)",
+		"radius" : 5.98,
+		"county_code" : "14-33"
+	},
+	{
+		"name" : "Gostynin",
+		"location" : "POINT (52.424231 19.46258)",
+		"radius" : 5.75,
+		"county_code" : "14-04"
+	},
+	{
+		"name" : "Łosice",
+		"location" : "POINT (52.195961 22.71989)",
+		"radius" : 4.61,
+		"county_code" : "14-10"
+	},
+	{
+		"name" : "Kozienice",
+		"location" : "POINT (51.586042 21.53641)",
+		"radius" : 3.27,
+		"county_code" : "14-07"
+	},
+	{
+		"name" : "Nowy Dwór Mazowiecki",
+		"location" : "POINT (52.434251 20.69179)",
+		"radius" : 5.95,
+		"county_code" : "14-14"
+	},
+	{
+		"name" : "Przasnysz",
+		"location" : "POINT (53.018504 20.885019)",
+		"radius" : 4.31,
+		"county_code" : "14-22"
+	},
+	{
+		"name" : "Raciąż",
+		"location" : "POINT (52.782734 20.120469)",
+		"radius" : 2.47,
+		"county_code" : "14-20"
+	},
+	{
+		"name" : "Radom",
+		"location" : "POINT (51.417238 21.156131)",
+		"radius" : 10.45,
+		"county_code" : "14-63"
+	},
+	{
+		"name" : "Wołomin",
+		"location" : "POINT (52.342697 21.236141)",
+		"radius" : 4.57,
+		"county_code" : "14-34"
+	},
+	{
+		"name" : "Żyrardów",
+		"location" : "POINT (52.055549 20.440572)",
+		"radius" : 3.64,
+		"county_code" : "14-38"
+	},
+	{
+		"name" : "Radzymin",
+		"location" : "POINT (52.426067 21.165392)",
+		"radius" : 5.30,
+		"county_code" : "14-34"
+	},
+	{
+		"name" : "Chorzele",
+		"location" : "POINT (53.260366 20.91482)",
+		"radius" : 4.16,
+		"county_code" : "14-22"
+	},
+	{
+		"name" : "Myszyniec",
+		"location" : "POINT (53.376602 21.348095)",
+		"radius" : 3.36,
+		"county_code" : "14-15"
+	},
+	{
+		"name" : "Bieżuń",
+		"location" : "POINT (52.962889 19.877725)",
+		"radius" : 3.20,
+		"county_code" : "14-37"
+	},
+	{
+		"name" : "Gąbin",
+		"location" : "POINT (52.40089 19.730994)",
+		"radius" : 5.05,
+		"county_code" : "14-19"
+	},
+	{
+		"name" : "Sierpc",
+		"location" : "POINT (52.853228 19.665053)",
+		"radius" : 3.85,
+		"county_code" : "14-27"
+	},
+	{
+		"name" : "Łochów",
+		"location" : "POINT (52.524885 21.716641)",
+		"radius" : 4.03,
+		"county_code" : "14-33"
+	},
+	{
+		"name" : "Nowe Miasto",
+		"location" : "POINT (52.659502 20.621719)",
+		"radius" : 2.63,
+		"county_code" : "14-20"
+	},
+	{
+		"name" : "Cegłów",
+		"location" : "POINT (52.147178 21.745284)",
+		"radius" : 2.91,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Mrozy",
+		"location" : "POINT (52.169747 21.808386)",
+		"radius" : 3.02,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Warszawa",
+		"location" : "POINT (52.233001 21.06142)",
+		"radius" : 20.72,
+		"county_code" : "14-65"
+	},
+	{
+		"name" : "Sulejówek",
+		"location" : "POINT (52.244467 21.281617)",
+		"radius" : 3.93,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Tarczyn",
+		"location" : "POINT (51.984983 20.83203)",
+		"radius" : 2.48,
+		"county_code" : "14-18"
+	},
+	{
+		"name" : "Wyszków",
+		"location" : "POINT (52.592308 21.447292)",
+		"radius" : 5.03,
+		"county_code" : "14-35"
+	},
+	{
+		"name" : "Kosów Lacki",
+		"location" : "POINT (52.595133 22.153541)",
+		"radius" : 3.33,
+		"county_code" : "14-29"
+	},
+	{
+		"name" : "Pruszków",
+		"location" : "POINT (52.172013 20.798982)",
+		"radius" : 4.11,
+		"county_code" : "14-21"
+	},
+	{
+		"name" : "Drobin",
+		"location" : "POINT (52.742049 19.989697)",
+		"radius" : 2.90,
+		"county_code" : "14-19"
+	},
+	{
+		"name" : "Halinów",
+		"location" : "POINT (52.225271 21.356882)",
+		"radius" : 1.69,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Pułtusk",
+		"location" : "POINT (52.701582 21.085235)",
+		"radius" : 4.36,
+		"county_code" : "14-24"
+	},
+	{
+		"name" : "Osieck",
+		"location" : "POINT (51.98015 21.423653)",
+		"radius" : 4.65,
+		"county_code" : "14-17"
+	},
+	{
+		"name" : "Sanniki",
+		"location" : "POINT (52.331198 19.864168)",
+		"radius" : 3.31,
+		"county_code" : "14-04"
+	},
+	{
+		"name" : "Ciepielów",
+		"location" : "POINT (51.24208 21.576169)",
+		"radius" : 2.84,
+		"county_code" : "14-09"
+	},
+	{
+		"name" : "Siennica",
+		"location" : "POINT (52.091765 21.6244)",
+		"radius" : 3.02,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Sienno",
+		"location" : "POINT (51.098323 21.485149)",
+		"radius" : 3.60,
+		"county_code" : "14-09"
+	},
+	{
+		"name" : "Dobre",
+		"location" : "POINT (52.321223 21.672635)",
+		"radius" : 2.64,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Lubowidz",
+		"location" : "POINT (53.116478 19.855961)",
+		"radius" : 4.03,
+		"county_code" : "14-37"
+	},
+	{
+		"name" : "Gielniów",
+		"location" : "POINT (51.393763 20.482368)",
+		"radius" : 3.65,
+		"county_code" : "14-23"
+	},
+	{
+		"name" : "Głowaczów",
+		"location" : "POINT (51.620409 21.305075)",
+		"radius" : 2.48,
+		"county_code" : "14-07"
+	},
+	{
+		"name" : "Jedlnia-Letnisko",
+		"location" : "POINT (51.434066 21.333028)",
+		"radius" : 2.86,
+		"county_code" : "14-25"
+	},
+	{
+		"name" : "Magnuszew",
+		"location" : "POINT (51.754485 21.385284)",
+		"radius" : 2.76,
+		"county_code" : "14-07"
+	},
+	{
+		"name" : "Bodzanów",
+		"location" : "POINT (52.507603 20.028033)",
+		"radius" : 1.94,
+		"county_code" : "14-19"
+	},
+	{
+		"name" : "Maciejowice",
+		"location" : "POINT (51.700235 21.560654)",
+		"radius" : 3.59,
+		"county_code" : "14-03"
+	},
+	{
+		"name" : "Latowicz",
+		"location" : "POINT (52.024052 21.809004)",
+		"radius" : 4.94,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Jadów",
+		"location" : "POINT (52.474018 21.628129)",
+		"radius" : 2.43,
+		"county_code" : "14-34"
+	},
+	{
+		"name" : "Jastrząb",
+		"location" : "POINT (51.244293 20.957825)",
+		"radius" : 4.12,
+		"county_code" : "14-30"
+	},
+	{
+		"name" : "Odrzywół",
+		"location" : "POINT (51.521251 20.563552)",
+		"radius" : 2.67,
+		"county_code" : "14-23"
+	},
+	{
+		"name" : "Solec nad Wisłą",
+		"location" : "POINT (51.146673 21.726544)",
+		"radius" : 5.67,
+		"county_code" : "14-09"
+	},
+	{
+		"name" : "Wiskitki",
+		"location" : "POINT (52.083433 20.389497)",
+		"radius" : 2.39,
+		"county_code" : "14-38"
+	},
+	{
+		"name" : "Sochocin",
+		"location" : "POINT (52.691412 20.478194)",
+		"radius" : 2.42,
+		"county_code" : "14-20"
+	},
+	{
+		"name" : "Przytyk",
+		"location" : "POINT (51.468864 20.906137)",
+		"radius" : 2.06,
+		"county_code" : "14-25"
+	},
+	{
+		"name" : "Czerwińsk nad Wisłą",
+		"location" : "POINT (52.403806 20.31738)",
+		"radius" : 2.30,
+		"county_code" : "14-20"
+	},
+	{
+		"name" : "Kazanów",
+		"location" : "POINT (51.272895 21.466028)",
+		"radius" : 2.44,
+		"county_code" : "14-36"
+	},
+	{
+		"name" : "Strzeleczki",
+		"location" : "POINT (50.473842 17.836927)",
+		"radius" : 5.57,
+		"county_code" : "16-05"
+	},
+	{
+		"name" : "Tułowice",
+		"location" : "POINT (50.594843 17.656441)",
+		"radius" : 3.22,
+		"county_code" : "16-09"
+	},
+	{
+		"name" : "Korfantów",
+		"location" : "POINT (50.484758 17.598506)",
+		"radius" : 3.15,
+		"county_code" : "16-07"
+	},
+	{
+		"name" : "Leśnica",
+		"location" : "POINT (50.429234 18.181571)",
+		"radius" : 3.32,
+		"county_code" : "16-11"
+	},
+	{
+		"name" : "Praszka",
+		"location" : "POINT (51.04833 18.45297)",
+		"radius" : 2.98,
+		"county_code" : "16-08"
+	},
+	{
+		"name" : "Niemodlin",
+		"location" : "POINT (50.638655 17.619395)",
+		"radius" : 4.17,
+		"county_code" : "16-09"
+	},
+	{
+		"name" : "Zawadzkie",
+		"location" : "POINT (50.607972 18.448222)",
+		"radius" : 4.92,
+		"county_code" : "16-11"
+	},
+	{
+		"name" : "Ujazd",
+		"location" : "POINT (50.396438 18.355613)",
+		"radius" : 3.66,
+		"county_code" : "16-11"
+	},
+	{
+		"name" : "Strzelce Opolskie",
+		"location" : "POINT (50.529713 18.300084)",
+		"radius" : 5.16,
+		"county_code" : "16-11"
+	},
+	{
+		"name" : "Brzeg",
+		"location" : "POINT (50.858877 17.462846)",
+		"radius" : 3.85,
+		"county_code" : "16-01"
+	},
+	{
+		"name" : "Dobrodzień",
+		"location" : "POINT (50.716799 18.435484)",
+		"radius" : 4.15,
+		"county_code" : "16-08"
+	},
+	{
+		"name" : "Prószków",
+		"location" : "POINT (50.572246 17.875147)",
+		"radius" : 4.11,
+		"county_code" : "16-09"
+	},
+	{
+		"name" : "Nysa",
+		"location" : "POINT (50.47358 17.336965)",
+		"radius" : 5.03,
+		"county_code" : "16-07"
+	},
+	{
+		"name" : "Grodków",
+		"location" : "POINT (50.694286 17.380184)",
+		"radius" : 3.33,
+		"county_code" : "16-01"
+	},
+	{
+		"name" : "Byczyna",
+		"location" : "POINT (51.112415 18.214788)",
+		"radius" : 2.21,
+		"county_code" : "16-04"
+	},
+	{
+		"name" : "Paczków",
+		"location" : "POINT (50.466433 17.003902)",
+		"radius" : 2.44,
+		"county_code" : "16-07"
+	},
+	{
+		"name" : "Kietrz",
+		"location" : "POINT (50.080898 18.012701)",
+		"radius" : 3.99,
+		"county_code" : "16-02"
+	},
+	{
+		"name" : "Kędzierzyn-Koźle",
+		"location" : "POINT (50.345441 18.245532)",
+		"radius" : 12.21,
+		"county_code" : "16-03"
+	},
+	{
+		"name" : "Gogolin",
+		"location" : "POINT (50.488822 18.022432)",
+		"radius" : 4.20,
+		"county_code" : "16-05"
+	},
+	{
+		"name" : "Głuchołazy",
+		"location" : "POINT (50.313729 17.368516)",
+		"radius" : 2.66,
+		"county_code" : "16-07"
+	},
+	{
+		"name" : "Olesno",
+		"location" : "POINT (50.87599 18.413042)",
+		"radius" : 3.47,
+		"county_code" : "16-08"
+	},
+	{
+		"name" : "Opole",
+		"location" : "POINT (50.678796 17.906141)",
+		"radius" : 13.50,
+		"county_code" : "16-61"
+	},
+	{
+		"name" : "Prudnik",
+		"location" : "POINT (50.305862 17.568839)",
+		"radius" : 4.89,
+		"county_code" : "16-10"
+	},
+	{
+		"name" : "Krapkowice",
+		"location" : "POINT (50.478605 17.957385)",
+		"radius" : 4.80,
+		"county_code" : "16-05"
+	},
+	{
+		"name" : "Namysłów",
+		"location" : "POINT (51.076894 17.695437)",
+		"radius" : 5.00,
+		"county_code" : "16-06"
+	},
+	{
+		"name" : "Głogówek",
+		"location" : "POINT (50.345886 17.860017)",
+		"radius" : 4.57,
+		"county_code" : "16-10"
+	},
+	{
+		"name" : "Gorzów Śląski",
+		"location" : "POINT (51.021031 18.410687)",
+		"radius" : 4.23,
+		"county_code" : "16-08"
+	},
+	{
+		"name" : "Biała",
+		"location" : "POINT (50.383636 17.670121)",
+		"radius" : 4.04,
+		"county_code" : "16-10"
+	},
+	{
+		"name" : "Wołczyn",
+		"location" : "POINT (51.023639 18.056743)",
+		"radius" : 3.22,
+		"county_code" : "16-04"
+	},
+	{
+		"name" : "Kluczbork",
+		"location" : "POINT (50.974564 18.220485)",
+		"radius" : 3.14,
+		"county_code" : "16-04"
+	},
+	{
+		"name" : "Kolonowskie",
+		"location" : "POINT (50.661449 18.392522)",
+		"radius" : 7.17,
+		"county_code" : "16-11"
+	},
+	{
+		"name" : "Otmuchów",
+		"location" : "POINT (50.466326 17.153492)",
+		"radius" : 8.26,
+		"county_code" : "16-07"
+	},
+	{
+		"name" : "Baborów",
+		"location" : "POINT (50.163264 17.985241)",
+		"radius" : 3.72,
+		"county_code" : "16-02"
+	},
+	{
+		"name" : "Ozimek",
+		"location" : "POINT (50.673461 18.213068)",
+		"radius" : 1.86,
+		"county_code" : "16-09"
+	},
+	{
+		"name" : "Głubczyce",
+		"location" : "POINT (50.204275 17.831128)",
+		"radius" : 3.41,
+		"county_code" : "16-02"
+	},
+	{
+		"name" : "Zdzieszowice",
+		"location" : "POINT (50.421349 18.114561)",
+		"radius" : 3.53,
+		"county_code" : "16-05"
+	},
+	{
+		"name" : "Lewin Brzeski",
+		"location" : "POINT (50.754558 17.630319)",
+		"radius" : 3.26,
+		"county_code" : "16-01"
+	},
+	{
+		"name" : "Rymanów",
+		"location" : "POINT (49.575761 21.872752)",
+		"radius" : 3.40,
+		"county_code" : "18-07"
+	},
+	{
+		"name" : "Dukla",
+		"location" : "POINT (49.557524 21.675361)",
+		"radius" : 3.67,
+		"county_code" : "18-07"
+	},
+	{
+		"name" : "Jedlicze",
+		"location" : "POINT (49.717012 21.646834)",
+		"radius" : 2.85,
+		"county_code" : "18-07"
+	},
+	{
+		"name" : "Dynów",
+		"location" : "POINT (49.813805 22.234036)",
+		"radius" : 4.34,
+		"county_code" : "18-16"
+	},
+	{
+		"name" : "Nowa Dęba",
+		"location" : "POINT (50.424586 21.754072)",
+		"radius" : 5.11,
+		"county_code" : "18-20"
+	},
+	{
+		"name" : "Tarnobrzeg",
+		"location" : "POINT (50.58376 21.698737)",
+		"radius" : 10.51,
+		"county_code" : "18-64"
+	},
+	{
+		"name" : "Dębica",
+		"location" : "POINT (50.045955 21.416003)",
+		"radius" : 5.60,
+		"county_code" : "18-03"
+	},
+	{
+		"name" : "Sędziszów Małopolski",
+		"location" : "POINT (50.088193 21.696631)",
+		"radius" : 5.86,
+		"county_code" : "18-15"
+	},
+	{
+		"name" : "Iwonicz-Zdrój",
+		"location" : "POINT (49.56307 21.785517)",
+		"radius" : 2.15,
+		"county_code" : "18-07"
+	},
+	{
+		"name" : "Rzeszów",
+		"location" : "POINT (50.013387 21.976416)",
+		"radius" : 12.30,
+		"county_code" : "18-63"
+	},
+	{
+		"name" : "Radymno",
+		"location" : "POINT (49.954062 22.829781)",
+		"radius" : 3.96,
+		"county_code" : "18-04"
+	},
+	{
+		"name" : "Ulanów",
+		"location" : "POINT (50.490749 22.295901)",
+		"radius" : 3.09,
+		"county_code" : "18-12"
+	},
+	{
+		"name" : "Narol",
+		"location" : "POINT (50.346617 23.30233)",
+		"radius" : 4.15,
+		"county_code" : "18-09"
+	},
+	{
+		"name" : "Nowa Sarzyna",
+		"location" : "POINT (50.325445 22.321497)",
+		"radius" : 3.03,
+		"county_code" : "18-08"
+	},
+	{
+		"name" : "Cieszanów",
+		"location" : "POINT (50.245316 23.13093)",
+		"radius" : 3.84,
+		"county_code" : "18-09"
+	},
+	{
+		"name" : "Przeworsk",
+		"location" : "POINT (50.05452 22.501153)",
+		"radius" : 4.43,
+		"county_code" : "18-14"
+	},
+	{
+		"name" : "Zagórz",
+		"location" : "POINT (49.50779 22.265196)",
+		"radius" : 4.43,
+		"county_code" : "18-17"
+	},
+	{
+		"name" : "Baranów Sandomierski",
+		"location" : "POINT (50.493447 21.537111)",
+		"radius" : 3.30,
+		"county_code" : "18-20"
+	},
+	{
+		"name" : "Jarosław",
+		"location" : "POINT (50.040009 22.670535)",
+		"radius" : 6.46,
+		"county_code" : "18-04"
+	},
+	{
+		"name" : "Nisko",
+		"location" : "POINT (50.503229 22.12912)",
+		"radius" : 7.17,
+		"county_code" : "18-12"
+	},
+	{
+		"name" : "Stalowa Wola",
+		"location" : "POINT (50.566497 22.017432)",
+		"radius" : 9.04,
+		"county_code" : "18-18"
+	},
+	{
+		"name" : "Oleszyce",
+		"location" : "POINT (50.162763 23.036998)",
+		"radius" : 2.36,
+		"county_code" : "18-09"
+	},
+	{
+		"name" : "Lubaczów",
+		"location" : "POINT (50.157191 23.120249)",
+		"radius" : 4.98,
+		"county_code" : "18-09"
+	},
+	{
+		"name" : "Ustrzyki Dolne",
+		"location" : "POINT (49.430235 22.578245)",
+		"radius" : 5.03,
+		"county_code" : "18-01"
+	},
+	{
+		"name" : "Brzozów",
+		"location" : "POINT (49.697744 22.019457)",
+		"radius" : 3.78,
+		"county_code" : "18-02"
+	},
+	{
+		"name" : "Mielec",
+		"location" : "POINT (50.280397 21.483686)",
+		"radius" : 8.35,
+		"county_code" : "18-11"
+	},
+	{
+		"name" : "Sanok",
+		"location" : "POINT (49.558954 22.215537)",
+		"radius" : 6.35,
+		"county_code" : "18-17"
+	},
+	{
+		"name" : "Strzyżów",
+		"location" : "POINT (49.87129 21.788843)",
+		"radius" : 3.62,
+		"county_code" : "18-19"
+	},
+	{
+		"name" : "Ropczyce",
+		"location" : "POINT (50.049044 21.612707)",
+		"radius" : 6.82,
+		"county_code" : "18-15"
+	},
+	{
+		"name" : "Błażowa",
+		"location" : "POINT (49.886553 22.101991)",
+		"radius" : 1.82,
+		"county_code" : "18-16"
+	},
+	{
+		"name" : "Tyczyn",
+		"location" : "POINT (49.962804 22.025742)",
+		"radius" : 3.76,
+		"county_code" : "18-16"
+	},
+	{
+		"name" : "Kolbuszowa",
+		"location" : "POINT (50.236018 21.766611)",
+		"radius" : 3.50,
+		"county_code" : "18-06"
+	},
+	{
+		"name" : "Sokołów Małopolski",
+		"location" : "POINT (50.236727 22.119655)",
+		"radius" : 3.98,
+		"county_code" : "18-16"
+	},
+	{
+		"name" : "Pilzno",
+		"location" : "POINT (49.974569 21.283378)",
+		"radius" : 3.63,
+		"county_code" : "18-03"
+	},
+	{
+		"name" : "Radomyśl Wielki",
+		"location" : "POINT (50.196335 21.275792)",
+		"radius" : 2.77,
+		"county_code" : "18-11"
+	},
+	{
+		"name" : "Łańcut",
+		"location" : "POINT (50.069565 22.224528)",
+		"radius" : 4.15,
+		"county_code" : "18-10"
+	},
+	{
+		"name" : "Kańczuga",
+		"location" : "POINT (49.977269 22.395411)",
+		"radius" : 2.74,
+		"county_code" : "18-14"
+	},
+	{
+		"name" : "Jasło",
+		"location" : "POINT (49.74701 21.471723)",
+		"radius" : 6.46,
+		"county_code" : "18-05"
+	},
+	{
+		"name" : "Zaklików",
+		"location" : "POINT (50.760836 22.091542)",
+		"radius" : 3.47,
+		"county_code" : "18-18"
+	},
+	{
+		"name" : "Boguchwała",
+		"location" : "POINT (49.983683 21.936695)",
+		"radius" : 2.77,
+		"county_code" : "18-16"
+	},
+	{
+		"name" : "Lesko",
+		"location" : "POINT (49.468499 22.325669)",
+		"radius" : 4.41,
+		"county_code" : "18-21"
+	},
+	{
+		"name" : "Przemyśl",
+		"location" : "POINT (49.783554 22.784247)",
+		"radius" : 6.57,
+		"county_code" : "18-62"
+	},
+	{
+		"name" : "Sieniawa",
+		"location" : "POINT (50.172701 22.593873)",
+		"radius" : 2.67,
+		"county_code" : "18-14"
+	},
+	{
+		"name" : "Leżajsk",
+		"location" : "POINT (50.265524 22.418622)",
+		"radius" : 4.73,
+		"county_code" : "18-08"
+	},
+	{
+		"name" : "Bircza",
+		"location" : "POINT (49.689165 22.481414)",
+		"radius" : 2.23,
+		"county_code" : "18-13"
+	},
+	{
+		"name" : "Brzostek",
+		"location" : "POINT (49.879826 21.408361)",
+		"radius" : 3.10,
+		"county_code" : "18-03"
+	},
+	{
+		"name" : "Głogów Małopolski",
+		"location" : "POINT (50.151167 21.954888)",
+		"radius" : 6.44,
+		"county_code" : "18-16"
+	},
+	{
+		"name" : "Rudnik nad Sanem",
+		"location" : "POINT (50.430329 22.236004)",
+		"radius" : 5.91,
+		"county_code" : "18-12"
+	},
+	{
+		"name" : "Jawornik Polski",
+		"location" : "POINT (49.889938 22.293156)",
+		"radius" : 3.33,
+		"county_code" : "18-14"
+	},
+	{
+		"name" : "Krosno",
+		"location" : "POINT (49.689269 21.76132)",
+		"radius" : 6.75,
+		"county_code" : "18-61"
+	},
+	{
+		"name" : "Dubiecko",
+		"location" : "POINT (49.831244 22.396233)",
+		"radius" : 1.66,
+		"county_code" : "18-13"
+	},
+	{
+		"name" : "Przecław",
+		"location" : "POINT (50.188493 21.448586)",
+		"radius" : 4.64,
+		"county_code" : "18-11"
+	},
+	{
+		"name" : "Kołaczyce",
+		"location" : "POINT (49.810656 21.434203)",
+		"radius" : 3.02,
+		"county_code" : "18-05"
+	},
+	{
+		"name" : "Pruchnik",
+		"location" : "POINT (49.89502 22.503997)",
+		"radius" : 4.60,
+		"county_code" : "18-04"
+	},
+	{
+		"name" : "Szepietowo",
+		"location" : "POINT (52.867318 22.538229)",
+		"radius" : 1.97,
+		"county_code" : "20-13"
+	},
+	{
+		"name" : "Czyżew",
+		"location" : "POINT (52.79388 22.321485)",
+		"radius" : 2.78,
+		"county_code" : "20-13"
+	},
+	{
+		"name" : "Nowogród",
+		"location" : "POINT (53.216646 21.874626)",
+		"radius" : 4.71,
+		"county_code" : "20-07"
+	},
+	{
+		"name" : "Michałowo",
+		"location" : "POINT (53.033146 23.61031)",
+		"radius" : 1.20,
+		"county_code" : "20-02"
+	},
+	{
+		"name" : "Krynki",
+		"location" : "POINT (53.263935 23.763372)",
+		"radius" : 4.97,
+		"county_code" : "20-11"
+	},
+	{
+		"name" : "Wysokie Mazowieckie",
+		"location" : "POINT (52.924916 22.51358)",
+		"radius" : 3.61,
+		"county_code" : "20-13"
+	},
+	{
+		"name" : "Bielsk Podlaski",
+		"location" : "POINT (52.764218 23.190266)",
+		"radius" : 5.00,
+		"county_code" : "20-03"
+	},
+	{
+		"name" : "Knyszyn",
+		"location" : "POINT (53.319587 22.897502)",
+		"radius" : 4.65,
+		"county_code" : "20-08"
+	},
+	{
+		"name" : "Suwałki",
+		"location" : "POINT (54.102717 22.929215)",
+		"radius" : 8.13,
+		"county_code" : "20-63"
+	},
+	{
+		"name" : "Szczuczyn",
+		"location" : "POINT (53.566589 22.281442)",
+		"radius" : 3.13,
+		"county_code" : "20-04"
+	},
+	{
+		"name" : "Lipsk",
+		"location" : "POINT (53.737613 23.401484)",
+		"radius" : 2.20,
+		"county_code" : "20-01"
+	},
+	{
+		"name" : "Grajewo",
+		"location" : "POINT (53.640184 22.450971)",
+		"radius" : 4.10,
+		"county_code" : "20-04"
+	},
+	{
+		"name" : "Zambrów",
+		"location" : "POINT (52.976018 22.247289)",
+		"radius" : 4.68,
+		"county_code" : "20-14"
+	},
+	{
+		"name" : "Stawiski",
+		"location" : "POINT (53.375764 22.152749)",
+		"radius" : 3.61,
+		"county_code" : "20-06"
+	},
+	{
+		"name" : "Sokółka",
+		"location" : "POINT (53.406884 23.502292)",
+		"radius" : 4.05,
+		"county_code" : "20-11"
+	},
+	{
+		"name" : "Choroszcz",
+		"location" : "POINT (53.136506 22.987445)",
+		"radius" : 4.04,
+		"county_code" : "20-02"
+	},
+	{
+		"name" : "Białystok",
+		"location" : "POINT (53.127598 23.156495)",
+		"radius" : 9.09,
+		"county_code" : "20-61"
+	},
+	{
+		"name" : "Brańsk",
+		"location" : "POINT (52.767756 22.848094)",
+		"radius" : 5.81,
+		"county_code" : "20-03"
+	},
+	{
+		"name" : "Goniądz",
+		"location" : "POINT (53.489819 22.73716)",
+		"radius" : 1.96,
+		"county_code" : "20-08"
+	},
+	{
+		"name" : "Suraż",
+		"location" : "POINT (52.951989 22.953086)",
+		"radius" : 5.20,
+		"county_code" : "20-02"
+	},
+	{
+		"name" : "Sejny",
+		"location" : "POINT (54.110554 23.347777)",
+		"radius" : 2.06,
+		"county_code" : "20-09"
+	},
+	{
+		"name" : "Łapy",
+		"location" : "POINT (52.993786 22.877182)",
+		"radius" : 3.98,
+		"county_code" : "20-02"
+	},
+	{
+		"name" : "Kolno",
+		"location" : "POINT (53.401834 21.936138)",
+		"radius" : 5.41,
+		"county_code" : "20-06"
+	},
+	{
+		"name" : "Drohiczyn",
+		"location" : "POINT (52.406328 22.653877)",
+		"radius" : 3.66,
+		"county_code" : "20-10"
+	},
+	{
+		"name" : "Tykocin",
+		"location" : "POINT (53.195824 22.759671)",
+		"radius" : 5.13,
+		"county_code" : "20-02"
+	},
+	{
+		"name" : "Suchowola",
+		"location" : "POINT (53.582108 23.098773)",
+		"radius" : 4.71,
+		"county_code" : "20-11"
+	},
+	{
+		"name" : "Supraśl",
+		"location" : "POINT (53.211521 23.346364)",
+		"radius" : 3.80,
+		"county_code" : "20-02"
+	},
+	{
+		"name" : "Hajnówka",
+		"location" : "POINT (52.731988 23.576308)",
+		"radius" : 4.60,
+		"county_code" : "20-05"
+	},
+	{
+		"name" : "Dąbrowa Białostocka",
+		"location" : "POINT (53.648265 23.328993)",
+		"radius" : 4.38,
+		"county_code" : "20-11"
+	},
+	{
+		"name" : "Mońki",
+		"location" : "POINT (53.404245 22.804923)",
+		"radius" : 2.67,
+		"county_code" : "20-08"
+	},
+	{
+		"name" : "Zabłudów",
+		"location" : "POINT (53.012612 23.341851)",
+		"radius" : 3.77,
+		"county_code" : "20-02"
+	},
+	{
+		"name" : "Czarna Białostocka",
+		"location" : "POINT (53.302357 23.267936)",
+		"radius" : 3.90,
+		"county_code" : "20-02"
+	},
+	{
+		"name" : "Kleszczele",
+		"location" : "POINT (52.577613 23.33046)",
+		"radius" : 6.64,
+		"county_code" : "20-05"
+	},
+	{
+		"name" : "Augustów",
+		"location" : "POINT (53.844897 23.009893)",
+		"radius" : 10.39,
+		"county_code" : "20-01"
+	},
+	{
+		"name" : "Siemiatycze",
+		"location" : "POINT (52.420556 22.87519)",
+		"radius" : 6.12,
+		"county_code" : "20-10"
+	},
+	{
+		"name" : "Rajgród",
+		"location" : "POINT (53.730096 22.680297)",
+		"radius" : 5.51,
+		"county_code" : "20-04"
+	},
+	{
+		"name" : "Ciechanowiec",
+		"location" : "POINT (52.676307 22.507273)",
+		"radius" : 5.66,
+		"county_code" : "20-13"
+	},
+	{
+		"name" : "Łomża",
+		"location" : "POINT (53.182572 22.058877)",
+		"radius" : 5.44,
+		"county_code" : "20-62"
+	},
+	{
+		"name" : "Jedwabne",
+		"location" : "POINT (53.287047 22.303179)",
+		"radius" : 2.02,
+		"county_code" : "20-07"
+	},
+	{
+		"name" : "Wasilków",
+		"location" : "POINT (53.212963 23.195914)",
+		"radius" : 5.79,
+		"county_code" : "20-02"
+	},
+	{
+		"name" : "Człuchów",
+		"location" : "POINT (53.664779 17.368084)",
+		"radius" : 3.86,
+		"county_code" : "22-03"
+	},
+	{
+		"name" : "Lębork",
+		"location" : "POINT (54.535593 17.757786)",
+		"radius" : 4.04,
+		"county_code" : "22-08"
+	},
+	{
+		"name" : "Łeba",
+		"location" : "POINT (54.760338 17.581854)",
+		"radius" : 6.35,
+		"county_code" : "22-08"
+	},
+	{
+		"name" : "Wejherowo",
+		"location" : "POINT (54.60609 18.233624)",
+		"radius" : 5.53,
+		"county_code" : "22-15"
+	},
+	{
+		"name" : "Brusy",
+		"location" : "POINT (53.886064 17.723092)",
+		"radius" : 2.02,
+		"county_code" : "22-02"
+	},
+	{
+		"name" : "Miastko",
+		"location" : "POINT (54.004277 16.971303)",
+		"radius" : 2.34,
+		"county_code" : "22-01"
+	},
+	{
+		"name" : "Gdynia",
+		"location" : "POINT (54.523455 18.633904)",
+		"radius" : 21.02,
+		"county_code" : "22-62"
+	},
+	{
+		"name" : "Kwidzyn",
+		"location" : "POINT (53.720466 18.945284)",
+		"radius" : 4.90,
+		"county_code" : "22-07"
+	},
+	{
+		"name" : "Nowy Dwór Gdański",
+		"location" : "POINT (54.211957 19.120205)",
+		"radius" : 2.03,
+		"county_code" : "22-10"
+	},
+	{
+		"name" : "Słupsk",
+		"location" : "POINT (54.463575 17.011429)",
+		"radius" : 7.56,
+		"county_code" : "22-63"
+	},
+	{
+		"name" : "Pruszcz Gdański",
+		"location" : "POINT (54.257781 18.6453)",
+		"radius" : 3.34,
+		"county_code" : "22-04"
+	},
+	{
+		"name" : "Gdańsk",
+		"location" : "POINT (54.428826 18.749899)",
+		"radius" : 26.85,
+		"county_code" : "22-61"
+	},
+	{
+		"name" : "Puck",
+		"location" : "POINT (54.729514 18.424105)",
+		"radius" : 4.42,
+		"county_code" : "22-11"
+	},
+	{
+		"name" : "Ustka",
+		"location" : "POINT (54.573491 16.859753)",
+		"radius" : 3.22,
+		"county_code" : "22-12"
+	},
+	{
+		"name" : "Krynica Morska",
+		"location" : "POINT (54.389637 19.490052)",
+		"radius" : 12.85,
+		"county_code" : "22-10"
+	},
+	{
+		"name" : "Kościerzyna",
+		"location" : "POINT (54.120781 17.984633)",
+		"radius" : 3.69,
+		"county_code" : "22-06"
+	},
+	{
+		"name" : "Sopot",
+		"location" : "POINT (54.443043 18.560512)",
+		"radius" : 4.45,
+		"county_code" : "22-64"
+	},
+	{
+		"name" : "Żukowo",
+		"location" : "POINT (54.344683 18.359621)",
+		"radius" : 2.18,
+		"county_code" : "22-05"
+	},
+	{
+		"name" : "Tczew",
+		"location" : "POINT (54.090717 18.78161)",
+		"radius" : 4.19,
+		"county_code" : "22-14"
+	},
+	{
+		"name" : "Rumia",
+		"location" : "POINT (54.569276 18.384915)",
+		"radius" : 5.10,
+		"county_code" : "22-15"
+	},
+	{
+		"name" : "Chojnice",
+		"location" : "POINT (53.69997 17.560158)",
+		"radius" : 4.28,
+		"county_code" : "22-02"
+	},
+	{
+		"name" : "Czersk",
+		"location" : "POINT (53.78997 17.977319)",
+		"radius" : 2.98,
+		"county_code" : "22-02"
+	},
+	{
+		"name" : "Malbork",
+		"location" : "POINT (54.028507 19.044351)",
+		"radius" : 4.06,
+		"county_code" : "22-09"
+	},
+	{
+		"name" : "Kępice",
+		"location" : "POINT (54.235314 16.886124)",
+		"radius" : 3.21,
+		"county_code" : "22-12"
+	},
+	{
+		"name" : "Nowy Staw",
+		"location" : "POINT (54.138979 19.009879)",
+		"radius" : 2.20,
+		"county_code" : "22-09"
+	},
+	{
+		"name" : "Hel",
+		"location" : "POINT (54.623855 18.744311)",
+		"radius" : 10.12,
+		"county_code" : "22-11"
+	},
+	{
+		"name" : "Kartuzy",
+		"location" : "POINT (54.334619 18.21097)",
+		"radius" : 3.12,
+		"county_code" : "22-05"
+	},
+	{
+		"name" : "Debrzno",
+		"location" : "POINT (53.543303 17.245134)",
+		"radius" : 3.15,
+		"county_code" : "22-03"
+	},
+	{
+		"name" : "Skarszewy",
+		"location" : "POINT (54.065533 18.44557)",
+		"radius" : 2.89,
+		"county_code" : "22-13"
+	},
+	{
+		"name" : "Skórcz",
+		"location" : "POINT (53.794356 18.516164)",
+		"radius" : 1.86,
+		"county_code" : "22-13"
+	},
+	{
+		"name" : "Starogard Gdański",
+		"location" : "POINT (53.965461 18.526449)",
+		"radius" : 4.57,
+		"county_code" : "22-13"
+	},
+	{
+		"name" : "Bytów",
+		"location" : "POINT (54.179849 17.500617)",
+		"radius" : 3.74,
+		"county_code" : "22-01"
+	},
+	{
+		"name" : "Gniew",
+		"location" : "POINT (53.841072 18.811325)",
+		"radius" : 2.51,
+		"county_code" : "22-14"
+	},
+	{
+		"name" : "Czarna Woda",
+		"location" : "POINT (53.840585 18.111634)",
+		"radius" : 3.65,
+		"county_code" : "22-13"
+	},
+	{
+		"name" : "Dzierzgoń",
+		"location" : "POINT (53.91732 19.342435)",
+		"radius" : 2.46,
+		"county_code" : "22-16"
+	},
+	{
+		"name" : "Sztum",
+		"location" : "POINT (53.922065 19.035946)",
+		"radius" : 2.17,
+		"county_code" : "22-16"
+	},
+	{
+		"name" : "Pelplin",
+		"location" : "POINT (53.925847 18.700157)",
+		"radius" : 1.91,
+		"county_code" : "22-14"
+	},
+	{
+		"name" : "Władysławowo",
+		"location" : "POINT (54.78423 18.426838)",
+		"radius" : 5.23,
+		"county_code" : "22-11"
+	},
+	{
+		"name" : "Reda",
+		"location" : "POINT (54.620976 18.33441)",
+		"radius" : 6.30,
+		"county_code" : "22-15"
+	},
+	{
+		"name" : "Jastarnia",
+		"location" : "POINT (54.691944 18.605553)",
+		"radius" : 10.91,
+		"county_code" : "22-11"
+	},
+	{
+		"name" : "Prabuty",
+		"location" : "POINT (53.749522 19.214688)",
+		"radius" : 2.73,
+		"county_code" : "22-07"
+	},
+	{
+		"name" : "Kobylnica",
+		"location" : "POINT (54.435753 16.995668)",
+		"radius" : 3.02,
+		"county_code" : "22-12"
+	},
+	{
+		"name" : "Czarne",
+		"location" : "POINT (53.671453 16.92384)",
+		"radius" : 7.79,
+		"county_code" : "22-03"
+	},
+	{
+		"name" : "Wisła",
+		"location" : "POINT (49.635796 18.911028)",
+		"radius" : 9.50,
+		"county_code" : "24-03"
+	},
+	{
+		"name" : "Przyrów",
+		"location" : "POINT (50.798565 19.522959)",
+		"radius" : 3.08,
+		"county_code" : "24-04"
+	},
+	{
+		"name" : "Włodowice",
+		"location" : "POINT (50.555396 19.428309)",
+		"radius" : 4.73,
+		"county_code" : "24-16"
+	},
+	{
+		"name" : "Olsztyn",
+		"location" : "POINT (50.738666 19.245722)",
+		"radius" : 6.34,
+		"county_code" : "24-04"
+	},
+	{
+		"name" : "Sławków",
+		"location" : "POINT (50.291785 19.347487)",
+		"radius" : 6.08,
+		"county_code" : "24-01"
+	},
+	{
+		"name" : "Gliwice",
+		"location" : "POINT (50.301176 18.649657)",
+		"radius" : 11.18,
+		"county_code" : "24-66"
+	},
+	{
+		"name" : "Czechowice-Dziedzice",
+		"location" : "POINT (49.904085 19.000511)",
+		"radius" : 5.53,
+		"county_code" : "24-02"
+	},
+	{
+		"name" : "Zabrze",
+		"location" : "POINT (50.314244 18.7965)",
+		"radius" : 8.93,
+		"county_code" : "24-78"
+	},
+	{
+		"name" : "Krzanowice",
+		"location" : "POINT (50.014817 18.126455)",
+		"radius" : 1.78,
+		"county_code" : "24-11"
+	},
+	{
+		"name" : "Rybnik",
+		"location" : "POINT (50.110519 18.549262)",
+		"radius" : 11.34,
+		"county_code" : "24-73"
+	},
+	{
+		"name" : "Koziegłowy",
+		"location" : "POINT (50.615851 19.16756)",
+		"radius" : 5.44,
+		"county_code" : "24-09"
+	},
+	{
+		"name" : "Poręba",
+		"location" : "POINT (50.489176 19.331071)",
+		"radius" : 5.86,
+		"county_code" : "24-16"
+	},
+	{
+		"name" : "Żarki",
+		"location" : "POINT (50.623848 19.375195)",
+		"radius" : 4.99,
+		"county_code" : "24-09"
+	},
+	{
+		"name" : "Kalety",
+		"location" : "POINT (50.568768 18.92971)",
+		"radius" : 9.68,
+		"county_code" : "24-13"
+	},
+	{
+		"name" : "Miasteczko Śląskie",
+		"location" : "POINT (50.494511 18.94638)",
+		"radius" : 8.99,
+		"county_code" : "24-13"
+	},
+	{
+		"name" : "Ogrodzieniec",
+		"location" : "POINT (50.439048 19.502386)",
+		"radius" : 4.84,
+		"county_code" : "24-16"
+	},
+	{
+		"name" : "Pilica",
+		"location" : "POINT (50.467738 19.649514)",
+		"radius" : 3.17,
+		"county_code" : "24-16"
+	},
+	{
+		"name" : "Imielin",
+		"location" : "POINT (50.143864 19.199927)",
+		"radius" : 4.85,
+		"county_code" : "24-14"
+	},
+	{
+		"name" : "Wodzisław Śląski",
+		"location" : "POINT (50.002292 18.439974)",
+		"radius" : 7.24,
+		"county_code" : "24-15"
+	},
+	{
+		"name" : "Łaziska Górne",
+		"location" : "POINT (50.143491 18.852699)",
+		"radius" : 3.99,
+		"county_code" : "24-08"
+	},
+	{
+		"name" : "Świętochłowice",
+		"location" : "POINT (50.29784 18.910223)",
+		"radius" : 3.56,
+		"county_code" : "24-76"
+	},
+	{
+		"name" : "Myszków",
+		"location" : "POINT (50.564663 19.327018)",
+		"radius" : 7.89,
+		"county_code" : "24-09"
+	},
+	{
+		"name" : "Szczyrk",
+		"location" : "POINT (49.696389 19.008087)",
+		"radius" : 6.19,
+		"county_code" : "24-02"
+	},
+	{
+		"name" : "Koniecpol",
+		"location" : "POINT (50.771122 19.692439)",
+		"radius" : 6.17,
+		"county_code" : "24-04"
+	},
+	{
+		"name" : "Będzin",
+		"location" : "POINT (50.335706 19.123989)",
+		"radius" : 6.03,
+		"county_code" : "24-01"
+	},
+	{
+		"name" : "Ustroń",
+		"location" : "POINT (49.718581 18.831329)",
+		"radius" : 8.13,
+		"county_code" : "24-03"
+	},
+	{
+		"name" : "Wilamowice",
+		"location" : "POINT (49.919526 19.159285)",
+		"radius" : 3.12,
+		"county_code" : "24-02"
+	},
+	{
+		"name" : "Knurów",
+		"location" : "POINT (50.207225 18.662957)",
+		"radius" : 5.17,
+		"county_code" : "24-05"
+	},
+	{
+		"name" : "Blachownia",
+		"location" : "POINT (50.796839 18.94672)",
+		"radius" : 5.73,
+		"county_code" : "24-04"
+	},
+	{
+		"name" : "Lubliniec",
+		"location" : "POINT (50.643248 18.708685)",
+		"radius" : 8.92,
+		"county_code" : "24-07"
+	},
+	{
+		"name" : "Żywiec",
+		"location" : "POINT (49.706497 19.209905)",
+		"radius" : 7.55,
+		"county_code" : "24-17"
+	},
+	{
+		"name" : "Chorzów",
+		"location" : "POINT (50.288479 18.962897)",
+		"radius" : 6.32,
+		"county_code" : "24-63"
+	},
+	{
+		"name" : "Tychy",
+		"location" : "POINT (50.126501 19.008393)",
+		"radius" : 8.07,
+		"county_code" : "24-77"
+	},
+	{
+		"name" : "Skoczów",
+		"location" : "POINT (49.799367 18.800111)",
+		"radius" : 3.31,
+		"county_code" : "24-03"
+	},
+	{
+		"name" : "Rydułtowy",
+		"location" : "POINT (50.066526 18.42105)",
+		"radius" : 3.78,
+		"county_code" : "24-15"
+	},
+	{
+		"name" : "Bytom",
+		"location" : "POINT (50.365727 18.87634)",
+		"radius" : 8.20,
+		"county_code" : "24-62"
+	},
+	{
+		"name" : "Racibórz",
+		"location" : "POINT (50.090615 18.221759)",
+		"radius" : 7.73,
+		"county_code" : "24-11"
+	},
+	{
+		"name" : "Zawiercie",
+		"location" : "POINT (50.505618 19.470427)",
+		"radius" : 9.54,
+		"county_code" : "24-16"
+	},
+	{
+		"name" : "Siewierz",
+		"location" : "POINT (50.464814 19.215824)",
+		"radius" : 5.79,
+		"county_code" : "24-01"
+	},
+	{
+		"name" : "Szczekociny",
+		"location" : "POINT (50.62134 19.827768)",
+		"radius" : 3.91,
+		"county_code" : "24-16"
+	},
+	{
+		"name" : "Radlin",
+		"location" : "POINT (50.041105 18.466002)",
+		"radius" : 3.68,
+		"county_code" : "24-15"
+	},
+	{
+		"name" : "Mysłowice",
+		"location" : "POINT (50.209618 19.154582)",
+		"radius" : 8.88,
+		"county_code" : "24-70"
+	},
+	{
+		"name" : "Jastrzębie-Zdrój",
+		"location" : "POINT (49.960629 18.600587)",
+		"radius" : 9.41,
+		"county_code" : "24-67"
+	},
+	{
+		"name" : "Czerwionka-Leszczyny",
+		"location" : "POINT (50.164843 18.680233)",
+		"radius" : 6.49,
+		"county_code" : "24-12"
+	},
+	{
+		"name" : "Czeladź",
+		"location" : "POINT (50.319162 19.08231)",
+		"radius" : 3.83,
+		"county_code" : "24-01"
+	},
+	{
+		"name" : "Wojkowice",
+		"location" : "POINT (50.365974 19.031549)",
+		"radius" : 3.90,
+		"county_code" : "24-01"
+	},
+	{
+		"name" : "Piekary Śląskie",
+		"location" : "POINT (50.375829 18.978013)",
+		"radius" : 6.75,
+		"county_code" : "24-71"
+	},
+	{
+		"name" : "Sosnowiec",
+		"location" : "POINT (50.271233 19.194633)",
+		"radius" : 10.13,
+		"county_code" : "24-75"
+	},
+	{
+		"name" : "Kłobuck",
+		"location" : "POINT (50.906887 18.940266)",
+		"radius" : 6.40,
+		"county_code" : "24-06"
+	},
+	{
+		"name" : "Woźniki",
+		"location" : "POINT (50.568404 19.037425)",
+		"radius" : 9.77,
+		"county_code" : "24-07"
+	},
+	{
+		"name" : "Sośnicowice",
+		"location" : "POINT (50.272909 18.535146)",
+		"radius" : 3.41,
+		"county_code" : "24-05"
+	},
+	{
+		"name" : "Krzepice",
+		"location" : "POINT (50.960894 18.725729)",
+		"radius" : 5.89,
+		"county_code" : "24-06"
+	},
+	{
+		"name" : "Strumień",
+		"location" : "POINT (49.918706 18.754261)",
+		"radius" : 2.54,
+		"county_code" : "24-03"
+	},
+	{
+		"name" : "Pszczyna",
+		"location" : "POINT (49.98637 18.933004)",
+		"radius" : 4.30,
+		"county_code" : "24-10"
+	},
+	{
+		"name" : "Ruda Śląska",
+		"location" : "POINT (50.270062 18.874253)",
+		"radius" : 8.99,
+		"county_code" : "24-72"
+	},
+	{
+		"name" : "Cieszyn",
+		"location" : "POINT (49.755781 18.65144)",
+		"radius" : 5.69,
+		"county_code" : "24-03"
+	},
+	{
+		"name" : "Pszów",
+		"location" : "POINT (50.045051 18.391023)",
+		"radius" : 4.21,
+		"county_code" : "24-15"
+	},
+	{
+		"name" : "Orzesze",
+		"location" : "POINT (50.108196 18.794604)",
+		"radius" : 7.95,
+		"county_code" : "24-08"
+	},
+	{
+		"name" : "Bieruń",
+		"location" : "POINT (50.084379 19.143632)",
+		"radius" : 7.14,
+		"county_code" : "24-14"
+	},
+	{
+		"name" : "Bielsko-Biała",
+		"location" : "POINT (49.812061 19.03878)",
+		"radius" : 10.73,
+		"county_code" : "24-61"
+	},
+	{
+		"name" : "Tarnowskie Góry",
+		"location" : "POINT (50.465577 18.842062)",
+		"radius" : 8.89,
+		"county_code" : "24-13"
+	},
+	{
+		"name" : "Mikołów",
+		"location" : "POINT (50.196067 18.861887)",
+		"radius" : 8.46,
+		"county_code" : "24-08"
+	},
+	{
+		"name" : "Kuźnia Raciborska",
+		"location" : "POINT (50.213451 18.326627)",
+		"radius" : 4.83,
+		"county_code" : "24-11"
+	},
+	{
+		"name" : "Częstochowa",
+		"location" : "POINT (50.809635 19.122219)",
+		"radius" : 11.40,
+		"county_code" : "24-64"
+	},
+	{
+		"name" : "Dąbrowa Górnicza",
+		"location" : "POINT (50.369745 19.321354)",
+		"radius" : 14.65,
+		"county_code" : "24-65"
+	},
+	{
+		"name" : "Pyskowice",
+		"location" : "POINT (50.391636 18.600956)",
+		"radius" : 5.25,
+		"county_code" : "24-05"
+	},
+	{
+		"name" : "Lędziny",
+		"location" : "POINT (50.128468 19.123538)",
+		"radius" : 5.36,
+		"county_code" : "24-14"
+	},
+	{
+		"name" : "Żory",
+		"location" : "POINT (50.038947 18.688398)",
+		"radius" : 7.86,
+		"county_code" : "24-79"
+	},
+	{
+		"name" : "Łazy",
+		"location" : "POINT (50.425247 19.391999)",
+		"radius" : 2.89,
+		"county_code" : "24-16"
+	},
+	{
+		"name" : "Jaworzno",
+		"location" : "POINT (50.189415 19.301327)",
+		"radius" : 12.85,
+		"county_code" : "24-68"
+	},
+	{
+		"name" : "Radzionków",
+		"location" : "POINT (50.401493 18.900718)",
+		"radius" : 3.67,
+		"county_code" : "24-13"
+	},
+	{
+		"name" : "Toszek",
+		"location" : "POINT (50.459944 18.524895)",
+		"radius" : 3.26,
+		"county_code" : "24-05"
+	},
+	{
+		"name" : "Katowice",
+		"location" : "POINT (50.213877 19.007983)",
+		"radius" : 12.47,
+		"county_code" : "24-69"
+	},
+	{
+		"name" : "Siemianowice Śląskie",
+		"location" : "POINT (50.312366 19.023326)",
+		"radius" : 4.97,
+		"county_code" : "24-74"
+	},
+	{
+		"name" : "Chęciny",
+		"location" : "POINT (50.811122 20.467102)",
+		"radius" : 3.85,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Opatów",
+		"location" : "POINT (50.806109 21.423516)",
+		"radius" : 3.02,
+		"county_code" : "26-06"
+	},
+	{
+		"name" : "Starachowice",
+		"location" : "POINT (51.038332 21.071575)",
+		"radius" : 5.37,
+		"county_code" : "26-11"
+	},
+	{
+		"name" : "Wąchock",
+		"location" : "POINT (51.071541 21.043187)",
+		"radius" : 4.80,
+		"county_code" : "26-11"
+	},
+	{
+		"name" : "Skarżysko-Kamienna",
+		"location" : "POINT (51.122987 20.875292)",
+		"radius" : 8.05,
+		"county_code" : "26-10"
+	},
+	{
+		"name" : "Ćmielów",
+		"location" : "POINT (50.895903 21.525406)",
+		"radius" : 3.36,
+		"county_code" : "26-07"
+	},
+	{
+		"name" : "Zawichost",
+		"location" : "POINT (50.799311 21.834842)",
+		"radius" : 4.24,
+		"county_code" : "26-09"
+	},
+	{
+		"name" : "Osiek",
+		"location" : "POINT (50.527315 21.45543)",
+		"radius" : 4.31,
+		"county_code" : "26-12"
+	},
+	{
+		"name" : "Kunów",
+		"location" : "POINT (50.958477 21.282422)",
+		"radius" : 3.14,
+		"county_code" : "26-07"
+	},
+	{
+		"name" : "Ostrowiec Świętokrzyski",
+		"location" : "POINT (50.950204 21.406432)",
+		"radius" : 6.90,
+		"county_code" : "26-07"
+	},
+	{
+		"name" : "Pińczów",
+		"location" : "POINT (50.514898 20.53109)",
+		"radius" : 3.94,
+		"county_code" : "26-08"
+	},
+	{
+		"name" : "Końskie",
+		"location" : "POINT (51.184476 20.40553)",
+		"radius" : 4.63,
+		"county_code" : "26-05"
+	},
+	{
+		"name" : "Kielce",
+		"location" : "POINT (50.854186 20.615575)",
+		"radius" : 10.01,
+		"county_code" : "26-61"
+	},
+	{
+		"name" : "Staszów",
+		"location" : "POINT (50.562023 21.19077)",
+		"radius" : 5.03,
+		"county_code" : "26-12"
+	},
+	{
+		"name" : "Włoszczowa",
+		"location" : "POINT (50.857379 19.986653)",
+		"radius" : 4.82,
+		"county_code" : "26-13"
+	},
+	{
+		"name" : "Chmielnik",
+		"location" : "POINT (50.611509 20.748607)",
+		"radius" : 2.75,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Działoszyce",
+		"location" : "POINT (50.36665 20.350773)",
+		"radius" : 1.41,
+		"county_code" : "26-08"
+	},
+	{
+		"name" : "Stąporków",
+		"location" : "POINT (51.144203 20.568487)",
+		"radius" : 3.39,
+		"county_code" : "26-05"
+	},
+	{
+		"name" : "Skalbmierz",
+		"location" : "POINT (50.320628 20.391756)",
+		"radius" : 2.73,
+		"county_code" : "26-03"
+	},
+	{
+		"name" : "Połaniec",
+		"location" : "POINT (50.434272 21.269048)",
+		"radius" : 3.97,
+		"county_code" : "26-12"
+	},
+	{
+		"name" : "Sandomierz",
+		"location" : "POINT (50.67958 21.747097)",
+		"radius" : 5.35,
+		"county_code" : "26-09"
+	},
+	{
+		"name" : "Bodzentyn",
+		"location" : "POINT (50.945655 20.958741)",
+		"radius" : 3.05,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Jędrzejów",
+		"location" : "POINT (50.639541 20.2894)",
+		"radius" : 3.52,
+		"county_code" : "26-02"
+	},
+	{
+		"name" : "Małogoszcz",
+		"location" : "POINT (50.813497 20.264764)",
+		"radius" : 2.81,
+		"county_code" : "26-02"
+	},
+	{
+		"name" : "Busko-Zdrój",
+		"location" : "POINT (50.470299 20.716431)",
+		"radius" : 3.29,
+		"county_code" : "26-01"
+	},
+	{
+		"name" : "Sędziszów",
+		"location" : "POINT (50.56638 20.060045)",
+		"radius" : 3.03,
+		"county_code" : "26-02"
+	},
+	{
+		"name" : "Koprzywnica",
+		"location" : "POINT (50.594848 21.576094)",
+		"radius" : 4.31,
+		"county_code" : "26-09"
+	},
+	{
+		"name" : "Kazimierza Wielka",
+		"location" : "POINT (50.269357 20.486149)",
+		"radius" : 2.33,
+		"county_code" : "26-03"
+	},
+	{
+		"name" : "Daleszyce",
+		"location" : "POINT (50.803368 20.801615)",
+		"radius" : 3.73,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Wodzisław",
+		"location" : "POINT (50.520513 20.196197)",
+		"radius" : 3.30,
+		"county_code" : "26-02"
+	},
+	{
+		"name" : "Stopnica",
+		"location" : "POINT (50.433175 20.938672)",
+		"radius" : 1.96,
+		"county_code" : "26-01"
+	},
+	{
+		"name" : "Wiślica",
+		"location" : "POINT (50.343869 20.675853)",
+		"radius" : 2.28,
+		"county_code" : "26-01"
+	},
+	{
+		"name" : "Piekoszów",
+		"location" : "POINT (50.875945 20.464647)",
+		"radius" : 3.13,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Bogoria",
+		"location" : "POINT (50.644057 21.247604)",
+		"radius" : 2.30,
+		"county_code" : "26-12"
+	},
+	{
+		"name" : "Ożarów",
+		"location" : "POINT (50.886382 21.666789)",
+		"radius" : 2.46,
+		"county_code" : "26-06"
+	},
+	{
+		"name" : "Oleśnica",
+		"location" : "POINT (50.445422 21.065359)",
+		"radius" : 3.20,
+		"county_code" : "26-12"
+	},
+	{
+		"name" : "Morawica",
+		"location" : "POINT (50.74028 20.613588)",
+		"radius" : 2.07,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Łopuszno",
+		"location" : "POINT (50.945938 20.251362)",
+		"radius" : 2.21,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Łagów",
+		"location" : "POINT (50.777607 21.083428)",
+		"radius" : 2.92,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Radoszyce",
+		"location" : "POINT (51.076682 20.267659)",
+		"radius" : 4.20,
+		"county_code" : "26-05"
+	},
+	{
+		"name" : "Iwaniska",
+		"location" : "POINT (50.725979 21.276734)",
+		"radius" : 2.51,
+		"county_code" : "26-06"
+	},
+	{
+		"name" : "Suchedniów",
+		"location" : "POINT (51.051778 20.831757)",
+		"radius" : 6.90,
+		"county_code" : "26-10"
+	},
+	{
+		"name" : "Sobków",
+		"location" : "POINT (50.697838 20.46175)",
+		"radius" : 3.14,
+		"county_code" : "26-02"
+	},
+	{
+		"name" : "Klimontów",
+		"location" : "POINT (50.653637 21.453067)",
+		"radius" : 2.02,
+		"county_code" : "26-09"
+	},
+	{
+		"name" : "Nowy Korczyn",
+		"location" : "POINT (50.307615 20.795283)",
+		"radius" : 2.35,
+		"county_code" : "26-01"
+	},
+	{
+		"name" : "Pacanów",
+		"location" : "POINT (50.403482 21.038312)",
+		"radius" : 2.57,
+		"county_code" : "26-01"
+	},
+	{
+		"name" : "Opatowiec",
+		"location" : "POINT (50.24785 20.716889)",
+		"radius" : 2.51,
+		"county_code" : "26-03"
+	},
+	{
+		"name" : "Nowa Słupia",
+		"location" : "POINT (50.861278 21.063281)",
+		"radius" : 3.80,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Pierzchnica",
+		"location" : "POINT (50.700588 20.762521)",
+		"radius" : 3.04,
+		"county_code" : "26-04"
+	},
+	{
+		"name" : "Szydłów",
+		"location" : "POINT (50.596879 21.002618)",
+		"radius" : 3.52,
+		"county_code" : "26-12"
+	},
+	{
+		"name" : "Gowarczów",
+		"location" : "POINT (51.272213 20.432302)",
+		"radius" : 3.16,
+		"county_code" : "26-05"
+	},
+	{
+		"name" : "Pasłęk",
+		"location" : "POINT (54.061323 19.666834)",
+		"radius" : 2.99,
+		"county_code" : "28-04"
+	},
+	{
+		"name" : "Kętrzyn",
+		"location" : "POINT (54.082321 21.375075)",
+		"radius" : 3.06,
+		"county_code" : "28-08"
+	},
+	{
+		"name" : "Wielbark",
+		"location" : "POINT (53.391584 20.933701)",
+		"radius" : 5.14,
+		"county_code" : "28-17"
+	},
+	{
+		"name" : "Ruciane-Nida",
+		"location" : "POINT (53.650121 21.548711)",
+		"radius" : 5.04,
+		"county_code" : "28-16"
+	},
+	{
+		"name" : "Gołdap",
+		"location" : "POINT (54.313222 22.298366)",
+		"radius" : 4.73,
+		"county_code" : "28-18"
+	},
+	{
+		"name" : "Węgorzewo",
+		"location" : "POINT (54.208008 21.748918)",
+		"radius" : 3.59,
+		"county_code" : "28-19"
+	},
+	{
+		"name" : "Mikołajki",
+		"location" : "POINT (53.801961 21.58098)",
+		"radius" : 2.72,
+		"county_code" : "28-10"
+	},
+	{
+		"name" : "Nowe Miasto Lubawskie",
+		"location" : "POINT (53.425281 19.583881)",
+		"radius" : 3.12,
+		"county_code" : "28-12"
+	},
+	{
+		"name" : "Nidzica",
+		"location" : "POINT (53.363005 20.42298)",
+		"radius" : 2.56,
+		"county_code" : "28-11"
+	},
+	{
+		"name" : "Bartoszyce",
+		"location" : "POINT (54.253431 20.810384)",
+		"radius" : 3.41,
+		"county_code" : "28-01"
+	},
+	{
+		"name" : "Działdowo",
+		"location" : "POINT (53.240222 20.1807)",
+		"radius" : 3.57,
+		"county_code" : "28-03"
+	},
+	{
+		"name" : "Szczytno",
+		"location" : "POINT (53.56364 20.997865)",
+		"radius" : 3.14,
+		"county_code" : "28-17"
+	},
+	{
+		"name" : "Pasym",
+		"location" : "POINT (53.650386 20.794561)",
+		"radius" : 4.01,
+		"county_code" : "28-17"
+	},
+	{
+		"name" : "Lubawa",
+		"location" : "POINT (53.500508 19.754878)",
+		"radius" : 3.98,
+		"county_code" : "28-07"
+	},
+	{
+		"name" : "Orneta",
+		"location" : "POINT (54.115875 20.12634)",
+		"radius" : 2.93,
+		"county_code" : "28-09"
+	},
+	{
+		"name" : "Biała Piska",
+		"location" : "POINT (53.611452 22.06483)",
+		"radius" : 1.83,
+		"county_code" : "28-16"
+	},
+	{
+		"name" : "Zalewo",
+		"location" : "POINT (53.83894 19.591755)",
+		"radius" : 3.16,
+		"county_code" : "28-07"
+	},
+	{
+		"name" : "Ryn",
+		"location" : "POINT (53.938443 21.546437)",
+		"radius" : 2.06,
+		"county_code" : "28-06"
+	},
+	{
+		"name" : "Miłakowo",
+		"location" : "POINT (54.003974 20.072893)",
+		"radius" : 3.10,
+		"county_code" : "28-15"
+	},
+	{
+		"name" : "Giżycko",
+		"location" : "POINT (54.03596 21.769379)",
+		"radius" : 3.42,
+		"county_code" : "28-06"
+	},
+	{
+		"name" : "Olsztyn",
+		"location" : "POINT (53.776611 20.466568)",
+		"radius" : 8.78,
+		"county_code" : "28-62"
+	},
+	{
+		"name" : "Ostróda",
+		"location" : "POINT (53.70278 19.95299)",
+		"radius" : 3.94,
+		"county_code" : "28-15"
+	},
+	{
+		"name" : "Barczewo",
+		"location" : "POINT (53.835139 20.690873)",
+		"radius" : 2.36,
+		"county_code" : "28-14"
+	},
+	{
+		"name" : "Mrągowo",
+		"location" : "POINT (53.86843 21.298835)",
+		"radius" : 3.73,
+		"county_code" : "28-10"
+	},
+	{
+		"name" : "Reszel",
+		"location" : "POINT (54.051156 21.142893)",
+		"radius" : 1.75,
+		"county_code" : "28-08"
+	},
+	{
+		"name" : "Pieniężno",
+		"location" : "POINT (54.234944 20.120269)",
+		"radius" : 1.88,
+		"county_code" : "28-02"
+	},
+	{
+		"name" : "Korsze",
+		"location" : "POINT (54.171866 21.142285)",
+		"radius" : 2.34,
+		"county_code" : "28-08"
+	},
+	{
+		"name" : "Ełk",
+		"location" : "POINT (53.82393 22.35998)",
+		"radius" : 4.86,
+		"county_code" : "28-05"
+	},
+	{
+		"name" : "Tolkmicko",
+		"location" : "POINT (54.321491 19.531075)",
+		"radius" : 1.53,
+		"county_code" : "28-04"
+	},
+	{
+		"name" : "Frombork",
+		"location" : "POINT (54.358325 19.685649)",
+		"radius" : 2.73,
+		"county_code" : "28-02"
+	},
+	{
+		"name" : "Górowo Iławeckie",
+		"location" : "POINT (54.288514 20.488308)",
+		"radius" : 1.82,
+		"county_code" : "28-01"
+	},
+	{
+		"name" : "Olsztynek",
+		"location" : "POINT (53.587192 20.28168)",
+		"radius" : 2.92,
+		"county_code" : "28-14"
+	},
+	{
+		"name" : "Elbląg",
+		"location" : "POINT (54.198853 19.434352)",
+		"radius" : 8.68,
+		"county_code" : "28-61"
+	},
+	{
+		"name" : "Susz",
+		"location" : "POINT (53.71229 19.344875)",
+		"radius" : 2.66,
+		"county_code" : "28-07"
+	},
+	{
+		"name" : "Biskupiec",
+		"location" : "POINT (53.862133 20.952195)",
+		"radius" : 2.15,
+		"county_code" : "28-14"
+	},
+	{
+		"name" : "Morąg",
+		"location" : "POINT (53.916959 19.927579)",
+		"radius" : 2.56,
+		"county_code" : "28-15"
+	},
+	{
+		"name" : "Dobre Miasto",
+		"location" : "POINT (53.98701 20.397869)",
+		"radius" : 2.10,
+		"county_code" : "28-14"
+	},
+	{
+		"name" : "Bisztynek",
+		"location" : "POINT (54.086035 20.907277)",
+		"radius" : 1.33,
+		"county_code" : "28-01"
+	},
+	{
+		"name" : "Lidzbark Warmiński",
+		"location" : "POINT (54.130731 20.567466)",
+		"radius" : 3.50,
+		"county_code" : "28-09"
+	},
+	{
+		"name" : "Sępopol",
+		"location" : "POINT (54.265177 21.01316)",
+		"radius" : 2.28,
+		"county_code" : "28-01"
+	},
+	{
+		"name" : "Kisielice",
+		"location" : "POINT (53.606048 19.260374)",
+		"radius" : 1.67,
+		"county_code" : "28-07"
+	},
+	{
+		"name" : "Lidzbark",
+		"location" : "POINT (53.259999 19.82381)",
+		"radius" : 2.54,
+		"county_code" : "28-03"
+	},
+	{
+		"name" : "Pisz",
+		"location" : "POINT (53.627311 21.809603)",
+		"radius" : 3.04,
+		"county_code" : "28-16"
+	},
+	{
+		"name" : "Iława",
+		"location" : "POINT (53.596001 19.559402)",
+		"radius" : 4.93,
+		"county_code" : "28-07"
+	},
+	{
+		"name" : "Olecko",
+		"location" : "POINT (54.036197 22.49811)",
+		"radius" : 3.75,
+		"county_code" : "28-13"
+	},
+	{
+		"name" : "Młynary",
+		"location" : "POINT (54.188578 19.726463)",
+		"radius" : 1.74,
+		"county_code" : "28-04"
+	},
+	{
+		"name" : "Jeziorany",
+		"location" : "POINT (53.97474 20.747043)",
+		"radius" : 1.77,
+		"county_code" : "28-14"
+	},
+	{
+		"name" : "Orzysz",
+		"location" : "POINT (53.804085 21.956866)",
+		"radius" : 3.12,
+		"county_code" : "28-16"
+	},
+	{
+		"name" : "Miłomłyn",
+		"location" : "POINT (53.771075 19.844298)",
+		"radius" : 4.18,
+		"county_code" : "28-15"
+	},
+	{
+		"name" : "Braniewo",
+		"location" : "POINT (54.379451 19.82084)",
+		"radius" : 3.33,
+		"county_code" : "28-02"
+	},
+	{
+		"name" : "Kłecko",
+		"location" : "POINT (52.626811 17.442092)",
+		"radius" : 2.91,
+		"county_code" : "30-03"
+	},
+	{
+		"name" : "Czerniejewo",
+		"location" : "POINT (52.431521 17.480868)",
+		"radius" : 2.87,
+		"county_code" : "30-03"
+	},
+	{
+		"name" : "Borek Wielkopolski",
+		"location" : "POINT (51.91137 17.228884)",
+		"radius" : 2.50,
+		"county_code" : "30-04"
+	},
+	{
+		"name" : "Żerków",
+		"location" : "POINT (52.068062 17.560042)",
+		"radius" : 1.37,
+		"county_code" : "30-06"
+	},
+	{
+		"name" : "Grabów nad Prosną",
+		"location" : "POINT (51.506367 18.112664)",
+		"radius" : 1.58,
+		"county_code" : "30-18"
+	},
+	{
+		"name" : "Margonin",
+		"location" : "POINT (52.970529 17.099873)",
+		"radius" : 2.21,
+		"county_code" : "30-01"
+	},
+	{
+		"name" : "Krzywiń",
+		"location" : "POINT (51.963364 16.824495)",
+		"radius" : 1.52,
+		"county_code" : "30-11"
+	},
+	{
+		"name" : "Pyzdry",
+		"location" : "POINT (52.168413 17.684056)",
+		"radius" : 4.29,
+		"county_code" : "30-30"
+	},
+	{
+		"name" : "Kórnik",
+		"location" : "POINT (52.240317 17.09179)",
+		"radius" : 2.63,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Stęszew",
+		"location" : "POINT (52.282737 16.705111)",
+		"radius" : 2.58,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Czarnków",
+		"location" : "POINT (52.901212 16.551841)",
+		"radius" : 3.81,
+		"county_code" : "30-02"
+	},
+	{
+		"name" : "Krotoszyn",
+		"location" : "POINT (51.695115 17.443903)",
+		"radius" : 4.36,
+		"county_code" : "30-12"
+	},
+	{
+		"name" : "Wysoka",
+		"location" : "POINT (53.184369 17.071052)",
+		"radius" : 2.39,
+		"county_code" : "30-19"
+	},
+	{
+		"name" : "Witkowo",
+		"location" : "POINT (52.43731 17.775315)",
+		"radius" : 2.48,
+		"county_code" : "30-03"
+	},
+	{
+		"name" : "Wieleń",
+		"location" : "POINT (52.897415 16.174973)",
+		"radius" : 2.93,
+		"county_code" : "30-02"
+	},
+	{
+		"name" : "Kępno",
+		"location" : "POINT (51.285467 17.986835)",
+		"radius" : 2.74,
+		"county_code" : "30-08"
+	},
+	{
+		"name" : "Krzyż Wielkopolski",
+		"location" : "POINT (52.880693 16.010519)",
+		"radius" : 2.79,
+		"county_code" : "30-02"
+	},
+	{
+		"name" : "Pobiedziska",
+		"location" : "POINT (52.480255 17.26392)",
+		"radius" : 3.37,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Śrem",
+		"location" : "POINT (52.086759 17.018221)",
+		"radius" : 3.33,
+		"county_code" : "30-26"
+	},
+	{
+		"name" : "Słupca",
+		"location" : "POINT (52.290737 17.868654)",
+		"radius" : 3.16,
+		"county_code" : "30-23"
+	},
+	{
+		"name" : "Książ Wielkopolski",
+		"location" : "POINT (52.059034 17.248657)",
+		"radius" : 2.20,
+		"county_code" : "30-26"
+	},
+	{
+		"name" : "Dolsk",
+		"location" : "POINT (51.982469 17.057745)",
+		"radius" : 2.30,
+		"county_code" : "30-26"
+	},
+	{
+		"name" : "Raszków",
+		"location" : "POINT (51.722621 17.722108)",
+		"radius" : 1.40,
+		"county_code" : "30-17"
+	},
+	{
+		"name" : "Kleczew",
+		"location" : "POINT (52.366731 18.177326)",
+		"radius" : 3.10,
+		"county_code" : "30-10"
+	},
+	{
+		"name" : "Nowy Tomyśl",
+		"location" : "POINT (52.311181 16.133198)",
+		"radius" : 2.27,
+		"county_code" : "30-15"
+	},
+	{
+		"name" : "Dobra",
+		"location" : "POINT (51.913945 18.610099)",
+		"radius" : 1.54,
+		"county_code" : "30-27"
+	},
+	{
+		"name" : "Zbąszyń",
+		"location" : "POINT (52.251407 15.911891)",
+		"radius" : 2.98,
+		"county_code" : "30-15"
+	},
+	{
+		"name" : "Wągrowiec",
+		"location" : "POINT (52.812254 17.197613)",
+		"radius" : 3.86,
+		"county_code" : "30-28"
+	},
+	{
+		"name" : "Miejska Górka",
+		"location" : "POINT (51.653505 16.956031)",
+		"radius" : 1.94,
+		"county_code" : "30-22"
+	},
+	{
+		"name" : "Chodzież",
+		"location" : "POINT (52.99497 16.915715)",
+		"radius" : 3.91,
+		"county_code" : "30-01"
+	},
+	{
+		"name" : "Sompolno",
+		"location" : "POINT (52.393751 18.500258)",
+		"radius" : 2.18,
+		"county_code" : "30-10"
+	},
+	{
+		"name" : "Lwówek",
+		"location" : "POINT (52.446813 16.181793)",
+		"radius" : 1.76,
+		"county_code" : "30-15"
+	},
+	{
+		"name" : "Krobia",
+		"location" : "POINT (51.772108 16.990441)",
+		"radius" : 2.46,
+		"county_code" : "30-04"
+	},
+	{
+		"name" : "Koźmin Wielkopolski",
+		"location" : "POINT (51.829053 17.45299)",
+		"radius" : 2.14,
+		"county_code" : "30-12"
+	},
+	{
+		"name" : "Odolanów",
+		"location" : "POINT (51.578072 17.669912)",
+		"radius" : 2.48,
+		"county_code" : "30-17"
+	},
+	{
+		"name" : "Łobżenica",
+		"location" : "POINT (53.266527 17.253093)",
+		"radius" : 2.39,
+		"county_code" : "30-19"
+	},
+	{
+		"name" : "Kobylin",
+		"location" : "POINT (51.71708 17.239129)",
+		"radius" : 2.25,
+		"county_code" : "30-12"
+	},
+	{
+		"name" : "Grodzisk Wielkopolski",
+		"location" : "POINT (52.226182 16.366037)",
+		"radius" : 4.16,
+		"county_code" : "30-05"
+	},
+	{
+		"name" : "Złotów",
+		"location" : "POINT (53.359183 17.045127)",
+		"radius" : 3.33,
+		"county_code" : "30-31"
+	},
+	{
+		"name" : "Jastrowie",
+		"location" : "POINT (53.407518 16.788806)",
+		"radius" : 9.71,
+		"county_code" : "30-31"
+	},
+	{
+		"name" : "Gołańcz",
+		"location" : "POINT (52.950736 17.306793)",
+		"radius" : 3.24,
+		"county_code" : "30-28"
+	},
+	{
+		"name" : "Jutrosin",
+		"location" : "POINT (51.649881 17.170596)",
+		"radius" : 1.12,
+		"county_code" : "30-22"
+	},
+	{
+		"name" : "Sieraków",
+		"location" : "POINT (52.649933 16.072528)",
+		"radius" : 4.44,
+		"county_code" : "30-14"
+	},
+	{
+		"name" : "Rakoniewice",
+		"location" : "POINT (52.141017 16.271966)",
+		"radius" : 1.76,
+		"county_code" : "30-05"
+	},
+	{
+		"name" : "Wielichowo",
+		"location" : "POINT (52.1188 16.349714)",
+		"radius" : 1.04,
+		"county_code" : "30-05"
+	},
+	{
+		"name" : "Śmigiel",
+		"location" : "POINT (52.01023 16.516177)",
+		"radius" : 2.12,
+		"county_code" : "30-11"
+	},
+	{
+		"name" : "Zagórów",
+		"location" : "POINT (52.165032 17.891394)",
+		"radius" : 1.99,
+		"county_code" : "30-23"
+	},
+	{
+		"name" : "Krajenka",
+		"location" : "POINT (53.292748 16.983735)",
+		"radius" : 2.28,
+		"county_code" : "30-31"
+	},
+	{
+		"name" : "Nowe Skalmierzyce",
+		"location" : "POINT (51.708842 17.996151)",
+		"radius" : 1.20,
+		"county_code" : "30-17"
+	},
+	{
+		"name" : "Murowana Goślina",
+		"location" : "POINT (52.569862 17.010164)",
+		"radius" : 2.70,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Kostrzyn",
+		"location" : "POINT (52.397933 17.223208)",
+		"radius" : 2.63,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Dąbie",
+		"location" : "POINT (52.099215 18.823767)",
+		"radius" : 2.61,
+		"county_code" : "30-09"
+	},
+	{
+		"name" : "Kościan",
+		"location" : "POINT (52.08346 16.649453)",
+		"radius" : 2.74,
+		"county_code" : "30-11"
+	},
+	{
+		"name" : "Mikstat",
+		"location" : "POINT (51.535286 17.976069)",
+		"radius" : 1.39,
+		"county_code" : "30-18"
+	},
+	{
+		"name" : "Międzychód",
+		"location" : "POINT (52.6008 15.887387)",
+		"radius" : 2.81,
+		"county_code" : "30-14"
+	},
+	{
+		"name" : "Czempiń",
+		"location" : "POINT (52.139678 16.762504)",
+		"radius" : 1.96,
+		"county_code" : "30-11"
+	},
+	{
+		"name" : "Ostrów Wielkopolski",
+		"location" : "POINT (51.646877 17.803984)",
+		"radius" : 6.56,
+		"county_code" : "30-17"
+	},
+	{
+		"name" : "Jarocin",
+		"location" : "POINT (51.958472 17.507554)",
+		"radius" : 4.57,
+		"county_code" : "30-06"
+	},
+	{
+		"name" : "Sulmierzyce",
+		"location" : "POINT (51.616145 17.522268)",
+		"radius" : 5.96,
+		"county_code" : "30-12"
+	},
+	{
+		"name" : "Obrzycko",
+		"location" : "POINT (52.701995 16.530462)",
+		"radius" : 1.75,
+		"county_code" : "30-24"
+	},
+	{
+		"name" : "Leszno",
+		"location" : "POINT (51.843962 16.574029)",
+		"radius" : 5.41,
+		"county_code" : "30-63"
+	},
+	{
+		"name" : "Kalisz",
+		"location" : "POINT (51.747316 18.076058)",
+		"radius" : 7.61,
+		"county_code" : "30-61"
+	},
+	{
+		"name" : "Rychwał",
+		"location" : "POINT (52.07234 18.17387)",
+		"radius" : 2.65,
+		"county_code" : "30-10"
+	},
+	{
+		"name" : "Szamotuły",
+		"location" : "POINT (52.610102 16.575234)",
+		"radius" : 3.43,
+		"county_code" : "30-24"
+	},
+	{
+		"name" : "Września",
+		"location" : "POINT (52.325814 17.568515)",
+		"radius" : 3.17,
+		"county_code" : "30-30"
+	},
+	{
+		"name" : "Wronki",
+		"location" : "POINT (52.708974 16.376931)",
+		"radius" : 2.47,
+		"county_code" : "30-24"
+	},
+	{
+		"name" : "Wolsztyn",
+		"location" : "POINT (52.111777 16.113675)",
+		"radius" : 2.27,
+		"county_code" : "30-29"
+	},
+	{
+		"name" : "Ostroróg",
+		"location" : "POINT (52.624065 16.45461)",
+		"radius" : 1.38,
+		"county_code" : "30-24"
+	},
+	{
+		"name" : "Turek",
+		"location" : "POINT (52.016194 18.511509)",
+		"radius" : 4.11,
+		"county_code" : "30-27"
+	},
+	{
+		"name" : "Mosina",
+		"location" : "POINT (52.247067 16.850734)",
+		"radius" : 3.50,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Pniewy",
+		"location" : "POINT (52.510822 16.264457)",
+		"radius" : 3.15,
+		"county_code" : "30-24"
+	},
+	{
+		"name" : "Poznań",
+		"location" : "POINT (52.400626 16.901647)",
+		"radius" : 16.70,
+		"county_code" : "30-64"
+	},
+	{
+		"name" : "Konin",
+		"location" : "POINT (52.256117 18.262651)",
+		"radius" : 9.49,
+		"county_code" : "30-62"
+	},
+	{
+		"name" : "Poniec",
+		"location" : "POINT (51.763073 16.804228)",
+		"radius" : 2.50,
+		"county_code" : "30-04"
+	},
+	{
+		"name" : "Bojanowo",
+		"location" : "POINT (51.702856 16.757947)",
+		"radius" : 1.67,
+		"county_code" : "30-22"
+	},
+	{
+		"name" : "Buk",
+		"location" : "POINT (52.352792 16.521656)",
+		"radius" : 1.78,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Pleszew",
+		"location" : "POINT (51.894007 17.786438)",
+		"radius" : 3.25,
+		"county_code" : "30-20"
+	},
+	{
+		"name" : "Skoki",
+		"location" : "POINT (52.664784 17.166385)",
+		"radius" : 3.58,
+		"county_code" : "30-28"
+	},
+	{
+		"name" : "Środa Wielkopolska",
+		"location" : "POINT (52.223786 17.280332)",
+		"radius" : 4.51,
+		"county_code" : "30-25"
+	},
+	{
+		"name" : "Swarzędz",
+		"location" : "POINT (52.409429 17.066517)",
+		"radius" : 2.71,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Osieczna",
+		"location" : "POINT (51.903957 16.686166)",
+		"radius" : 2.17,
+		"county_code" : "30-13"
+	},
+	{
+		"name" : "Ślesin",
+		"location" : "POINT (52.383126 18.309934)",
+		"radius" : 3.43,
+		"county_code" : "30-10"
+	},
+	{
+		"name" : "Gostyń",
+		"location" : "POINT (51.881563 17.009232)",
+		"radius" : 4.07,
+		"county_code" : "30-04"
+	},
+	{
+		"name" : "Trzcianka",
+		"location" : "POINT (53.042675 16.446571)",
+		"radius" : 4.19,
+		"county_code" : "30-02"
+	},
+	{
+		"name" : "Golina",
+		"location" : "POINT (52.246109 18.095267)",
+		"radius" : 1.67,
+		"county_code" : "30-10"
+	},
+	{
+		"name" : "Stawiszyn",
+		"location" : "POINT (51.920594 18.110501)",
+		"radius" : 1.13,
+		"county_code" : "30-07"
+	},
+	{
+		"name" : "Przedecz",
+		"location" : "POINT (52.330533 18.904698)",
+		"radius" : 1.63,
+		"county_code" : "30-09"
+	},
+	{
+		"name" : "Rogoźno",
+		"location" : "POINT (52.744273 17.003363)",
+		"radius" : 4.04,
+		"county_code" : "30-16"
+	},
+	{
+		"name" : "Ujście",
+		"location" : "POINT (53.054859 16.727856)",
+		"radius" : 2.88,
+		"county_code" : "30-19"
+	},
+	{
+		"name" : "Zduny",
+		"location" : "POINT (51.645906 17.375357)",
+		"radius" : 2.32,
+		"county_code" : "30-12"
+	},
+	{
+		"name" : "Dobrzyca",
+		"location" : "POINT (51.860977 17.599057)",
+		"radius" : 4.29,
+		"county_code" : "30-20"
+	},
+	{
+		"name" : "Jaraczewo",
+		"location" : "POINT (51.972837 17.295758)",
+		"radius" : 2.67,
+		"county_code" : "30-06"
+	},
+	{
+		"name" : "Chocz",
+		"location" : "POINT (51.982957 17.872695)",
+		"radius" : 2.63,
+		"county_code" : "30-20"
+	},
+	{
+		"name" : "Budzyń",
+		"location" : "POINT (52.892541 16.990084)",
+		"radius" : 5.50,
+		"county_code" : "30-01"
+	},
+	{
+		"name" : "Koźminek",
+		"location" : "POINT (51.793222 18.338182)",
+		"radius" : 2.53,
+		"county_code" : "30-07"
+	},
+	{
+		"name" : "Oborniki",
+		"location" : "POINT (52.652699 16.805314)",
+		"radius" : 3.85,
+		"county_code" : "30-16"
+	},
+	{
+		"name" : "Kłodawa",
+		"location" : "POINT (52.248744 18.91515)",
+		"radius" : 2.08,
+		"county_code" : "30-09"
+	},
+	{
+		"name" : "Nekla",
+		"location" : "POINT (52.385076 17.406046)",
+		"radius" : 4.77,
+		"county_code" : "30-30"
+	},
+	{
+		"name" : "Trzemeszno",
+		"location" : "POINT (52.560507 17.813669)",
+		"radius" : 2.31,
+		"county_code" : "30-03"
+	},
+	{
+		"name" : "Koło",
+		"location" : "POINT (52.198384 18.635746)",
+		"radius" : 4.56,
+		"county_code" : "30-09"
+	},
+	{
+		"name" : "Rydzyna",
+		"location" : "POINT (51.790342 16.664066)",
+		"radius" : 1.57,
+		"county_code" : "30-13"
+	},
+	{
+		"name" : "Opalenica",
+		"location" : "POINT (52.313306 16.413548)",
+		"radius" : 2.61,
+		"county_code" : "30-15"
+	},
+	{
+		"name" : "Gniezno",
+		"location" : "POINT (52.524872 17.603341)",
+		"radius" : 5.98,
+		"county_code" : "30-03"
+	},
+	{
+		"name" : "Tuliszków",
+		"location" : "POINT (52.074172 18.275319)",
+		"radius" : 2.58,
+		"county_code" : "30-27"
+	},
+	{
+		"name" : "Pogorzela",
+		"location" : "POINT (51.823024 17.229991)",
+		"radius" : 1.88,
+		"county_code" : "30-04"
+	},
+	{
+		"name" : "Szamocin",
+		"location" : "POINT (53.031185 17.122381)",
+		"radius" : 2.14,
+		"county_code" : "30-01"
+	},
+	{
+		"name" : "Ostrzeszów",
+		"location" : "POINT (51.4244 17.932339)",
+		"radius" : 3.48,
+		"county_code" : "30-18"
+	},
+	{
+		"name" : "Wyrzysk",
+		"location" : "POINT (53.151709 17.269103)",
+		"radius" : 1.99,
+		"county_code" : "30-19"
+	},
+	{
+		"name" : "Miłosław",
+		"location" : "POINT (52.208352 17.486114)",
+		"radius" : 2.07,
+		"county_code" : "30-30"
+	},
+	{
+		"name" : "Piła",
+		"location" : "POINT (53.134895 16.760176)",
+		"radius" : 9.99,
+		"county_code" : "30-19"
+	},
+	{
+		"name" : "Zaniemyśl",
+		"location" : "POINT (52.150911 17.162882)",
+		"radius" : 2.46,
+		"county_code" : "30-25"
+	},
+	{
+		"name" : "Okonek",
+		"location" : "POINT (53.528452 16.853741)",
+		"radius" : 3.03,
+		"county_code" : "30-31"
+	},
+	{
+		"name" : "Luboń",
+		"location" : "POINT (52.336724 16.872891)",
+		"radius" : 3.51,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Puszczykowo",
+		"location" : "POINT (52.277614 16.851781)",
+		"radius" : 4.03,
+		"county_code" : "30-21"
+	},
+	{
+		"name" : "Mieścisko",
+		"location" : "POINT (52.740324 17.33006)",
+		"radius" : 3.14,
+		"county_code" : "30-28"
+	},
+	{
+		"name" : "Kaczory",
+		"location" : "POINT (53.110675 16.868257)",
+		"radius" : 3.91,
+		"county_code" : "30-19"
+	},
+	{
+		"name" : "Opatówek",
+		"location" : "POINT (51.739097 18.206038)",
+		"radius" : 3.00,
+		"county_code" : "30-07"
+	},
+	{
+		"name" : "Miasteczko Krajeńskie",
+		"location" : "POINT (53.098994 17.006252)",
+		"radius" : 1.43,
+		"county_code" : "30-19"
+	},
+	{
+		"name" : "Rawicz",
+		"location" : "POINT (51.616979 16.878665)",
+		"radius" : 3.76,
+		"county_code" : "30-22"
+	},
+	{
+		"name" : "Rychtal",
+		"location" : "POINT (51.153702 17.860769)",
+		"radius" : 2.46,
+		"county_code" : "30-08"
+	},
+	{
+		"name" : "Stargard",
+		"location" : "POINT (53.309032 15.01162)",
+		"radius" : 7.69,
+		"county_code" : "32-14"
+	},
+	{
+		"name" : "Mielno",
+		"location" : "POINT (54.27024 16.119883)",
+		"radius" : 7.33,
+		"county_code" : "32-09"
+	},
+	{
+		"name" : "Suchań",
+		"location" : "POINT (53.279437 15.324766)",
+		"radius" : 1.85,
+		"county_code" : "32-14"
+	},
+	{
+		"name" : "Ińsko",
+		"location" : "POINT (53.443409 15.538962)",
+		"radius" : 3.01,
+		"county_code" : "32-14"
+	},
+	{
+		"name" : "Tychowo",
+		"location" : "POINT (53.927854 16.256409)",
+		"radius" : 2.98,
+		"county_code" : "32-01"
+	},
+	{
+		"name" : "Złocieniec",
+		"location" : "POINT (53.525236 16.015208)",
+		"radius" : 5.28,
+		"county_code" : "32-03"
+	},
+	{
+		"name" : "Gościno",
+		"location" : "POINT (54.046737 15.650257)",
+		"radius" : 2.34,
+		"county_code" : "32-08"
+	},
+	{
+		"name" : "Połczyn-Zdrój",
+		"location" : "POINT (53.76156 16.092758)",
+		"radius" : 2.65,
+		"county_code" : "32-16"
+	},
+	{
+		"name" : "Czaplinek",
+		"location" : "POINT (53.557082 16.225695)",
+		"radius" : 4.11,
+		"county_code" : "32-03"
+	},
+	{
+		"name" : "Lipiany",
+		"location" : "POINT (53.007926 14.957066)",
+		"radius" : 2.59,
+		"county_code" : "32-12"
+	},
+	{
+		"name" : "Chojna",
+		"location" : "POINT (52.956257 14.428766)",
+		"radius" : 3.52,
+		"county_code" : "32-06"
+	},
+	{
+		"name" : "Świdwin",
+		"location" : "POINT (53.774265 15.797311)",
+		"radius" : 5.60,
+		"county_code" : "32-16"
+	},
+	{
+		"name" : "Stepnica",
+		"location" : "POINT (53.566157 15.007018)",
+		"radius" : 4.10,
+		"county_code" : "32-04"
+	},
+	{
+		"name" : "Dziwnów",
+		"location" : "POINT (54.019043 14.749814)",
+		"radius" : 2.44,
+		"county_code" : "32-07"
+	},
+	{
+		"name" : "Nowe Warpno",
+		"location" : "POINT (53.715603 14.312984)",
+		"radius" : 4.37,
+		"county_code" : "32-11"
+	},
+	{
+		"name" : "Myślibórz",
+		"location" : "POINT (52.94417 14.867663)",
+		"radius" : 4.38,
+		"county_code" : "32-10"
+	},
+	{
+		"name" : "Dobra",
+		"location" : "POINT (53.581276 15.304902)",
+		"radius" : 1.87,
+		"county_code" : "32-18"
+	},
+	{
+		"name" : "Łobez",
+		"location" : "POINT (53.635996 15.615795)",
+		"radius" : 3.65,
+		"county_code" : "32-18"
+	},
+	{
+		"name" : "Resko",
+		"location" : "POINT (53.76906 15.406488)",
+		"radius" : 2.19,
+		"county_code" : "32-18"
+	},
+	{
+		"name" : "Węgorzyno",
+		"location" : "POINT (53.538263 15.56458)",
+		"radius" : 2.66,
+		"county_code" : "32-18"
+	},
+	{
+		"name" : "Dobrzany",
+		"location" : "POINT (53.358165 15.433416)",
+		"radius" : 2.46,
+		"county_code" : "32-14"
+	},
+	{
+		"name" : "Kalisz Pomorski",
+		"location" : "POINT (53.292981 15.903146)",
+		"radius" : 3.64,
+		"county_code" : "32-03"
+	},
+	{
+		"name" : "Dębno",
+		"location" : "POINT (52.741508 14.695138)",
+		"radius" : 4.41,
+		"county_code" : "32-10"
+	},
+	{
+		"name" : "Wolin",
+		"location" : "POINT (53.831792 14.598056)",
+		"radius" : 4.32,
+		"county_code" : "32-07"
+	},
+	{
+		"name" : "Kołobrzeg",
+		"location" : "POINT (54.175776 15.596982)",
+		"radius" : 6.47,
+		"county_code" : "32-08"
+	},
+	{
+		"name" : "Świnoujście",
+		"location" : "POINT (53.853054 14.313143)",
+		"radius" : 12.59,
+		"county_code" : "32-63"
+	},
+	{
+		"name" : "Szczecin",
+		"location" : "POINT (53.4297 14.624621)",
+		"radius" : 16.95,
+		"county_code" : "32-62"
+	},
+	{
+		"name" : "Cedynia",
+		"location" : "POINT (52.876911 14.207159)",
+		"radius" : 1.56,
+		"county_code" : "32-06"
+	},
+	{
+		"name" : "Barwice",
+		"location" : "POINT (53.742945 16.351303)",
+		"radius" : 2.57,
+		"county_code" : "32-15"
+	},
+	{
+		"name" : "Mirosławiec",
+		"location" : "POINT (53.342875 16.086118)",
+		"radius" : 1.53,
+		"county_code" : "32-17"
+	},
+	{
+		"name" : "Mieszkowice",
+		"location" : "POINT (52.785909 14.490676)",
+		"radius" : 2.31,
+		"county_code" : "32-06"
+	},
+	{
+		"name" : "Maszewo",
+		"location" : "POINT (53.494731 15.061664)",
+		"radius" : 2.23,
+		"county_code" : "32-04"
+	},
+	{
+		"name" : "Barlinek",
+		"location" : "POINT (52.997458 15.208931)",
+		"radius" : 4.24,
+		"county_code" : "32-10"
+	},
+	{
+		"name" : "Police",
+		"location" : "POINT (53.56775 14.579553)",
+		"radius" : 5.55,
+		"county_code" : "32-11"
+	},
+	{
+		"name" : "Biały Bór",
+		"location" : "POINT (53.875242 16.842909)",
+		"radius" : 5.15,
+		"county_code" : "32-15"
+	},
+	{
+		"name" : "Płoty",
+		"location" : "POINT (53.805496 15.265497)",
+		"radius" : 1.95,
+		"county_code" : "32-05"
+	},
+	{
+		"name" : "Wałcz",
+		"location" : "POINT (53.272619 16.449497)",
+		"radius" : 6.39,
+		"county_code" : "32-17"
+	},
+	{
+		"name" : "Człopa",
+		"location" : "POINT (53.083766 16.133116)",
+		"radius" : 2.52,
+		"county_code" : "32-17"
+	},
+	{
+		"name" : "Sławno",
+		"location" : "POINT (54.361185 16.662228)",
+		"radius" : 4.21,
+		"county_code" : "32-13"
+	},
+	{
+		"name" : "Sianów",
+		"location" : "POINT (54.22412 16.318903)",
+		"radius" : 4.22,
+		"county_code" : "32-09"
+	},
+	{
+		"name" : "Pełczyce",
+		"location" : "POINT (53.046892 15.297384)",
+		"radius" : 3.17,
+		"county_code" : "32-02"
+	},
+	{
+		"name" : "Darłowo",
+		"location" : "POINT (54.428735 16.409811)",
+		"radius" : 4.31,
+		"county_code" : "32-13"
+	},
+	{
+		"name" : "Tuczno",
+		"location" : "POINT (53.199655 16.168466)",
+		"radius" : 3.16,
+		"county_code" : "32-17"
+	},
+	{
+		"name" : "Moryń",
+		"location" : "POINT (52.860173 14.400767)",
+		"radius" : 2.05,
+		"county_code" : "32-06"
+	},
+	{
+		"name" : "Borne Sulinowo",
+		"location" : "POINT (53.573667 16.53051)",
+		"radius" : 3.91,
+		"county_code" : "32-15"
+	},
+	{
+		"name" : "Trzcińsko-Zdrój",
+		"location" : "POINT (52.968273 14.611048)",
+		"radius" : 1.54,
+		"county_code" : "32-06"
+	},
+	{
+		"name" : "Bobolice",
+		"location" : "POINT (53.958217 16.58665)",
+		"radius" : 2.24,
+		"county_code" : "32-09"
+	},
+	{
+		"name" : "Trzebiatów",
+		"location" : "POINT (54.055716 15.282597)",
+		"radius" : 3.34,
+		"county_code" : "32-05"
+	},
+	{
+		"name" : "Gryfino",
+		"location" : "POINT (53.256045 14.49734)",
+		"radius" : 3.61,
+		"county_code" : "32-06"
+	},
+	{
+		"name" : "Szczecinek",
+		"location" : "POINT (53.702753 16.694611)",
+		"radius" : 7.33,
+		"county_code" : "32-15"
+	},
+	{
+		"name" : "Drawno",
+		"location" : "POINT (53.217915 15.756172)",
+		"radius" : 2.67,
+		"county_code" : "32-02"
+	},
+	{
+		"name" : "Choszczno",
+		"location" : "POINT (53.168721 15.427001)",
+		"radius" : 3.08,
+		"county_code" : "32-02"
+	},
+	{
+		"name" : "Gryfice",
+		"location" : "POINT (53.917172 15.202772)",
+		"radius" : 3.22,
+		"county_code" : "32-05"
+	},
+	{
+		"name" : "Polanów",
+		"location" : "POINT (54.119941 16.675743)",
+		"radius" : 2.76,
+		"county_code" : "32-09"
+	},
+	{
+		"name" : "Karlino",
+		"location" : "POINT (54.039985 15.869032)",
+		"radius" : 3.67,
+		"county_code" : "32-01"
+	},
+	{
+		"name" : "Koszalin",
+		"location" : "POINT (54.207179 16.201919)",
+		"radius" : 11.07,
+		"county_code" : "32-61"
+	},
+	{
+		"name" : "Pyrzyce",
+		"location" : "POINT (53.141912 14.893037)",
+		"radius" : 6.02,
+		"county_code" : "32-12"
+	},
+	{
+		"name" : "Recz",
+		"location" : "POINT (53.25479 15.55381)",
+		"radius" : 3.63,
+		"county_code" : "32-02"
+	},
+	{
+		"name" : "Golczewo",
+		"location" : "POINT (53.825352 14.979926)",
+		"radius" : 2.67,
+		"county_code" : "32-07"
+	},
+	{
+		"name" : "Kamień Pomorski",
+		"location" : "POINT (53.96956 14.782954)",
+		"radius" : 3.17,
+		"county_code" : "32-07"
+	},
+	{
+		"name" : "Nowogard",
+		"location" : "POINT (53.671931 15.118669)",
+		"radius" : 3.67,
+		"county_code" : "32-04"
+	},
+	{
+		"name" : "Białogard",
+		"location" : "POINT (54.014051 15.975629)",
+		"radius" : 5.91,
+		"county_code" : "32-01"
+	},
+	{
+		"name" : "Drawsko Pomorskie",
+		"location" : "POINT (53.533646 15.806855)",
+		"radius" : 4.39,
+		"county_code" : "32-03"
+	},
+	{
+		"name" : "Chociwel",
+		"location" : "POINT (53.466374 15.342241)",
+		"radius" : 2.03,
+		"county_code" : "32-14"
+	},
+	{
+		"name" : "Międzyzdroje",
+		"location" : "POINT (53.926201 14.436096)",
+		"radius" : 2.64,
+		"county_code" : "32-07"
+	},
+	{
+		"name" : "Goleniów",
+		"location" : "POINT (53.560687 14.838289)",
+		"radius" : 3.41,
+		"county_code" : "32-04"
+	}
+]}
