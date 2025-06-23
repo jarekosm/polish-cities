@@ -1,6 +1,6 @@
 {
     "name": "polish-cities",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Zbiór danych o miastach w Polsce w formacie JSON – gotowy do użycia w aplikacjach frontendowych, backendowych lub do analiz.",
     "main": "data/cities.json",
     "files": [
