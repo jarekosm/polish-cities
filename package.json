@@ -4,29 +4,28 @@
     "description": "Zbiór danych o miastach w Polsce w formacie JSON – gotowy do użycia w aplikacjach frontendowych, backendowych lub do analiz.",
     "main": "data/cities.json",
     "files": [
-      "data"
+        "data"
     ],
     "keywords": [
-      "poland",
-      "cities",
-      "miasta",
-      "json",
-      "dataset",
-      "openstreetmap",
-      "teryt",
-      "terc",
-      "simc",
-      "gus",
-      "geodata"
+        "poland",
+        "cities",
+        "miasta",
+        "json",
+        "dataset",
+        "openstreetmap",
+        "teryt",
+        "terc",
+        "simc",
+        "gus",
+        "geodata"
     ],
     "author": "Jarosław Osmólski",
     "license": "ODbL-1.0",
     "repository": {
-      "type": "git",
-      "url": "https://github.com/jarekosm/polish-cities"
+        "type": "git",
+        "url": "git+https://github.com/jarekosm/polish-cities.git"
     },
     "bugs": {
-      "url": "https://github.com/jarekosm/polish-cities/issues"
+        "url": "https://github.com/jarekosm/polish-cities/issues"
     }
-  }
-  
+}
