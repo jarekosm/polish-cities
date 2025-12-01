@@ -26,3 +26,16 @@ Dane pochodzą z:
 ```bash
 npm install polish-cities
 ```
+
+## 🔢 Wersjonowanie
+
+Pakiet używa wersjonowania dopasowanego do cyklu aktualizacji danych, w formacie:
+
+- `rok.zmiana.fix`
+
+Gdzie:
+- **pierwszy numer (rok)** – rok, dla którego dane są aktualne (np. `2025.x.x` oznacza dane aktualne na rok 2025),
+- **drugi numer (zmiana)** – zwiększany przy istotnej zmianie danych w trakcie danego roku (np. nowe źródło, poprawki/uzupełnienia rekordów),
+- **trzeci numer (fix)** – zwiększany przy drobnych poprawkach, które nie zmieniają znacząco samych danych (np. poprawki techniczne, literówki w opisach).
+
+Przykład: `2025.0.0` oznacza pierwsze wydanie danych aktualnych na rok 2025, bez dodatkowych zmian ani poprawek.
