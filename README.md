@@ -1,6 +1,6 @@
 # 🇵🇱 polish-cities
 
-📅 **Aktualność danych:** czerwiec 2025
+📅 **Aktualność danych:** grudzień 2025
 
 Zbiór danych o miastach (z powiązaniem do powiatu i województwa) w Polsce w formacie JSON – gotowy do użycia w aplikacjach frontendowych, backendowych lub do analiz.
 
