@@ -644,8 +644,8 @@
 	},
 	{
 		"name" : "Lubień Kujawski",
-		"location" : "POINT (52.40187 19.167962)",
-		"radius" : 2.30,
+		"location" : "POINT (52.401870 19.167962)",
+		"radius" : 2.31,
 		"county_code" : "04-18"
 	},
 	{
@@ -981,7 +981,7 @@
 	{
 		"name" : "Chełm",
 		"location" : "POINT (51.135601 23.496203)",
-		"radius" : 6.41,
+		"radius" : 6.42,
 		"county_code" : "06-62"
 	},
 	{
@@ -5871,7 +5871,7 @@
 	{
 		"name" : "Kołobrzeg",
 		"location" : "POINT (54.175776 15.596982)",
-		"radius" : 6.47,
+		"radius" : 6.48,
 		"county_code" : "32-08"
 	},
 	{
