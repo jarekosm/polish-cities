@@ -29,6 +29,8 @@ npm install polish-cities
 
 ## 🔢 Wersjonowanie
 
+Historia zmian między wersjami: [CHANGELOG.md](CHANGELOG.md).
+
 Pakiet używa wersjonowania dopasowanego do cyklu aktualizacji danych, w formacie:
 
 - `rok.zmiana.fix`
