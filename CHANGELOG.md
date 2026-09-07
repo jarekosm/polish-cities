@@ -5,7 +5,13 @@ Numer wersji pakietu: `rok.zmiana.fix` — zgodnie z opisem w [README](README.md
 
 ## [Unreleased]
 
-- Rozporządzenie Rady Ministrów z dnia 31 lipca 2025 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta oraz zmiany nazwy gminy: https://dziennikustaw.gov.pl/DU/2025/1046
+- Rozporządzenie Rady Ministrów z dnia 29 lipca 2026 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta oraz zmiany nazwy gminy: https://dziennikustaw.gov.pl/DU/rok/2026/pozycja/1023
+
+## [2026.0.0] - 2026-09-07
+
+### Zmienione
+
+- `data/city.json`: korekta listy miast względem rozporządzenia Rady Ministrów z dnia 31 lipca 2025 r. (m.in. granice gmin, nadanie statusu miasta, siedziby władz gmin).
 
 ## [2025.1.3] - 2026-05-14
 

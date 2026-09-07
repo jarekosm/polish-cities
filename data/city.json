@@ -1322,8 +1322,8 @@
 	},
 	{
 		"name" : "Zbąszynek",
-		"location" : "POINT (52.247057 15.825884)",
-		"radius" : 2.11,
+		"location" : "POINT (52.246152 15.822968)",
+		"radius" : 2.32,
 		"county_code" : "08-08"
 	},
 	{
@@ -1472,8 +1472,8 @@
 	},
 	{
 		"name" : "Strzelce Krajeńskie",
-		"location" : "POINT (52.875957 15.532543)",
-		"radius" : 2.31,
+		"location" : "POINT (52.876183 15.532543)",
+		"radius" : 2.33,
 		"county_code" : "08-06"
 	},
 	{
@@ -2894,8 +2894,8 @@
 	},
 	{
 		"name" : "Przytyk",
-		"location" : "POINT (51.468864 20.906137)",
-		"radius" : 2.06,
+		"location" : "POINT (51.469253 20.905098)",
+		"radius" : 2.13,
 		"county_code" : "14-25"
 	},
 	{
@@ -6119,5 +6119,41 @@
 		"location" : "POINT (53.560687 14.838289)",
 		"radius" : 3.41,
 		"county_code" : "32-04"
+	},
+	{
+		"name" : "Janów Podlaski",
+		"location" : "POINT (52.1765 23.218609)",
+		"radius" : 4.79,
+		"county_code" : "06-01"
+	},
+	{
+		"name" : "Stanisławów",
+		"location" : "POINT (52.291181 21.544243)",
+		"radius" : 3.11,
+		"county_code" : "14-12"
+	},
+	{
+		"name" : "Małkinia Górna",
+		"location" : "POINT (52.692433 22.033433)",
+		"radius" : 3.13,
+		"county_code" : "14-16"
+	},
+	{
+		"name" : "Staroźreby",
+		"location" : "POINT (52.631485 19.980448)",
+		"radius" : 2.27,
+		"county_code" : "14-19"
+	},
+	{
+		"name" : "Branice",
+		"location" : "POINT (50.048726 17.785031)",
+		"radius" : 3.19,
+		"county_code" : "16-02"
+	},
+	{
+		"name" : "Janów",
+		"location" : "POINT (50.735355 19.428353)",
+		"radius" : 2.79,
+		"county_code" : "24-04"
 	}
 ]}
