@@ -41,3 +41,9 @@ Gdzie:
 - **trzeci numer (fix)** – zwiększany przy drobnych poprawkach, które nie zmieniają znacząco samych danych (np. poprawki techniczne, literówki w opisach).
 
 Przykład: `2025.0.0` oznacza pierwsze wydanie danych aktualnych na rok 2025, bez dodatkowych zmian ani poprawek.
+
+## Wsparcie
+
+Pakiet udostępniam za darmo. Będę wdzięczny za wsparcie jego utrzymania, kolejnych aktualizacji danych i tworzenia nowych pakietów w przyszłości.
+
+[Wesprzyj na Suppi](https://suppi.pl/jo)

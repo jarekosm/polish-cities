@@ -7,6 +7,12 @@ Numer wersji pakietu: `rok.zmiana.fix` — zgodnie z opisem w [README](README.md
 
 - Rozporządzenie Rady Ministrów z dnia 29 lipca 2026 r. w sprawie ustalenia granic niektórych gmin i miast, nadania niektórym miejscowościom statusu miasta oraz zmiany nazwy gminy: https://dziennikustaw.gov.pl/DU/rok/2026/pozycja/1023
 
+## [2026.0.2] - 2026-11-21
+
+### Zmienione
+
+- README: dodano informację o możliwości wsparcia twórcy przez [Suppi](https://suppi.pl/jo).
+
 ## [2026.0.1] - 2026-09-07
 
 ### Zmienione
